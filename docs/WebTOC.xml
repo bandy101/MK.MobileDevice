@@ -1,0 +1,1266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="211c2c98-b74c-4ac9-9332-777250a4e11b" Title="CoreFoundation" Url="html/64930cf7-b57c-4d62-5c02-cdfd3f808912.htm">
+    <HelpTOCNode Id="c9d3d7fc-001e-4da0-9884-77ec625edf23" Title="CFArray Class" Url="html/2bfae4ae-5adf-3fa6-4c33-7863dae627ff.htm">
+      <HelpTOCNode Id="e1b23522-55b0-403d-991b-8ae84d370e17" Title="CFArray Constructor " Url="html/3a49394d-47b4-1eda-3b57-d2c188c52623.htm">
+        <HelpTOCNode Title="CFArray Constructor " Url="html/3257ac78-e68c-4d50-d80b-0005bb6696f7.htm" />
+        <HelpTOCNode Title="CFArray Constructor (IntPtr)" Url="html/2a18cb1f-e090-ea81-16c6-1202c649fbf5.htm" />
+        <HelpTOCNode Title="CFArray Constructor (IntPtr[])" Url="html/96663bd6-83a5-fbc6-0274-fc9cfc5f789b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="61e726ed-7d4b-4cd9-9658-03864a049167" Title="CFArray Properties" Url="html/90d77a03-5364-f5c1-4eee-37c105ce31b2.htm">
+        <HelpTOCNode Title="GetCount Property " Url="html/4c008d46-5a62-37d9-3363-e089de750adb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3b9e508e-12fa-4693-8801-9c81ef33485a" Title="CFArray Methods" Url="html/684073cc-191f-8061-ee12-6e677a3810a3.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/834c939a-ddf7-93e1-4ac1-f051e0245d3d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e46f080a-be70-4964-95ae-8d15ec3f8f07" Title="CFBoolean Class" Url="html/881100ab-2e12-9134-06de-40fe691c0b5f.htm">
+      <HelpTOCNode Id="c2723b99-f543-46c9-9162-bf7973499ec5" Title="CFBoolean Constructor " Url="html/51690ec0-6ea0-0964-d65b-126d3ea0e05e.htm">
+        <HelpTOCNode Title="CFBoolean Constructor " Url="html/7c9c316c-94b4-9dde-5727-df5473edeb2e.htm" />
+        <HelpTOCNode Title="CFBoolean Constructor (IntPtr)" Url="html/8d9f6ad1-9777-27bd-1a85-0ac4707c25f3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CFBoolean Methods" Url="html/1286bd46-f789-c16b-e3f6-c5feefca9702.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="057104fb-ff2f-4208-b881-fe2db11aba87" Title="CFData Class" Url="html/ebcd8afb-fdd8-b219-c7e7-7d996f9394d8.htm">
+      <HelpTOCNode Id="fe6032d8-976c-4396-a21c-fa5b16b48e11" Title="CFData Constructor " Url="html/3d070691-caa5-ef27-1440-bfda074a46ec.htm">
+        <HelpTOCNode Title="CFData Constructor " Url="html/e0a754c1-03e0-eb82-33ba-4ea85d2286c1.htm" />
+        <HelpTOCNode Title="CFData Constructor (Byte[])" Url="html/453c52de-eee7-163f-6c7d-ef9afce21fe9.htm" />
+        <HelpTOCNode Title="CFData Constructor (IntPtr)" Url="html/576f3567-9c5b-35e3-e105-e629204112ba.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7c010db-87d0-41aa-86a7-148edd32c7a9" Title="CFData Methods" Url="html/39612160-5232-5957-8a6d-63e6813af046.htm">
+        <HelpTOCNode Title="isData Method " Url="html/0a8aaed8-c3a9-92ac-8690-919fd04dd5ee.htm" />
+        <HelpTOCNode Title="Length Method " Url="html/9f378d06-f6a7-5e1c-b5a9-8167f39b1630.htm" />
+        <HelpTOCNode Title="ToByteArray Method " Url="html/e2baf3b8-e74f-b012-5189-0e18a417cf92.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c4352429-ac45-42a2-9d88-c64419b67518" Title="CFData Type Conversions" Url="html/aff37186-ea00-41c8-13d7-174dbe119123.htm">
+        <HelpTOCNode Id="d2b869af-f34e-491d-8985-053ad681ae10" Title="Implicit Conversion Operators" Url="html/91f31c85-f5d6-66c6-01f8-426538c51500.htm">
+          <HelpTOCNode Title="Implicit Conversion (IntPtr to CFData)" Url="html/a4ce2edc-fa6c-1458-f363-7d3df7b1e932.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFData to IntPtr)" Url="html/38d2b563-3f42-5b9f-182b-76da60f740ab.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab64bdb4-e1c5-4ece-b816-f96f70c7307d" Title="CFDictionary Class" Url="html/47f444b1-bde0-4e70-b5a2-bbcbddfb4086.htm">
+      <HelpTOCNode Id="0e08d0c3-1421-4131-87a8-f200e4937e3d" Title="CFDictionary Constructor " Url="html/f7558dfa-99ab-d9d5-8330-3f2e4f00c3c5.htm">
+        <HelpTOCNode Title="CFDictionary Constructor " Url="html/73d5209b-76dc-05f4-48c8-cf444bcf6ff7.htm" />
+        <HelpTOCNode Title="CFDictionary Constructor (IntPtr)" Url="html/ac21d468-816f-68c8-2f5d-e24e978a0d80.htm" />
+        <HelpTOCNode Title="CFDictionary Constructor (String[], IntPtr[])" Url="html/2fe6224d-8505-85f9-a723-85b3056a3d69.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80f925b3-8e6e-4cae-b24d-33e66a360d8c" Title="CFDictionary Properties" Url="html/e477a4bb-eadf-bc1b-e2e4-c485c6a44aa0.htm">
+        <HelpTOCNode Title="Length Property " Url="html/37e426d5-7f9d-6666-e5d9-fae841e6765a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fbd3be88-7c29-41d4-b8c0-d28382298a96" Title="CFDictionary Methods" Url="html/a1edc4d8-37a9-132d-9417-d1b4cce85c15.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/92067e44-43b9-dc26-9848-169d71bad7a5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f628196e-8497-4723-bd4a-d939a5cf24b3" Title="CFDictionary Type Conversions" Url="html/7c77ef21-8685-6764-3af3-7f3f21a8b8b5.htm">
+        <HelpTOCNode Id="7dcc9d9a-9fcc-4542-9de3-f9555dfc5b3f" Title="Implicit Conversion Operators" Url="html/49020c4e-a8e8-cbb0-4f0f-d6bfeb9a1d55.htm">
+          <HelpTOCNode Title="Implicit Conversion (IntPtr to CFDictionary)" Url="html/bae276f4-8de7-60f0-6715-97f0741a8218.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFDictionary to IntPtr)" Url="html/7ffb22d3-b71f-9b01-117b-a52ec9a6e00b.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFDictionary to String)" Url="html/cff63377-ad12-b70d-2ec9-fa997eb65c1e.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5b749905-56e0-4310-8640-917ea65285d1" Title="CFDictionary.CFDictionaryKeyCallBacks Structure" Url="html/5da6ac17-07aa-1610-e4d2-3485f9a9ee28.htm">
+      <HelpTOCNode Title="CFDictionaryKeyCallBacks Methods" Url="html/566fda8e-e0d8-5979-319f-f84f31002ba0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="86bce163-ba3e-4381-af93-98a41c02cdc2" Title="CFDictionary.CFDictionaryValueCallBacks Structure" Url="html/dabc73a7-78d1-aa50-5c1c-3cba85e434e8.htm">
+      <HelpTOCNode Title="CFDictionaryValueCallBacks Methods" Url="html/dc4d2103-198c-eb47-439d-4f1eb93871a0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a8a64c17-bf4e-4594-8890-8f53c3b90db8" Title="CFIndex Class" Url="html/6989a901-6cca-43a9-2085-84a908c196a9.htm">
+      <HelpTOCNode Id="8f472e2d-ca3c-43a4-9aee-c288faeaaaad" Title="CFIndex Constructor " Url="html/66cedb78-90bf-c0b2-3002-294af2c360b8.htm">
+        <HelpTOCNode Title="CFIndex Constructor " Url="html/73d46d4d-c50d-4bb6-e76f-4dc764848157.htm" />
+        <HelpTOCNode Title="CFIndex Constructor (IntPtr)" Url="html/48f39928-f2bf-8d56-edfe-48f002a09a14.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4f3652c9-7dbc-4206-aa1c-5d6d1f912d38" Title="CFIndex Methods" Url="html/61a3843e-f7ec-e550-dae4-ff3ec34ff93f.htm">
+        <HelpTOCNode Title="ToInteger Method " Url="html/c028710c-ba58-f976-ad39-3dce98f83ff9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="14691e36-fa36-4af5-ad36-17ba50855868" Title="CFIndex Type Conversions" Url="html/b7b59e19-8104-10b0-7697-11368900c74e.htm">
+        <HelpTOCNode Title="Implicit Conversion (IntPtr to CFIndex)" Url="html/ff826b13-66ed-4ab2-89ec-f50e26df793c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="67d45bee-92fe-453d-bcfc-795182604b14" Title="CFLibrary Class" Url="html/e99d685c-5998-57e6-b4f7-a256cfe9a498.htm">
+      <HelpTOCNode Title="CFLibrary Constructor " Url="html/8ea079ff-613b-52bd-ad65-70fe3ca14b56.htm" />
+      <HelpTOCNode Id="6ad9d876-86c3-47ce-9703-c3a93d00380c" Title="CFLibrary Methods" Url="html/796787e8-e072-fb96-59d2-ff84700348f0.htm">
+        <HelpTOCNode Title="__CFStringMakeConstantString Method " Url="html/50ee4ffe-5995-f586-90f8-99cede07b1b4.htm" />
+        <HelpTOCNode Title="CFArrayCreate Method " Url="html/5cbd6084-3fdc-08f5-1766-66ed8bdc71f9.htm" />
+        <HelpTOCNode Title="CFArrayGetCount Method " Url="html/91312633-2540-ed02-529d-6be7f72d9967.htm" />
+        <HelpTOCNode Title="CFArrayGetValueAtIndex Method " Url="html/a795bdcd-5546-95d1-9581-50c0920384f3.htm" />
+        <HelpTOCNode Title="CFBooleanGetValue Method " Url="html/8b0e138d-8508-a5b6-00b1-8f938de0a721.htm" />
+        <HelpTOCNode Title="CFCopyDescription Method " Url="html/9856d044-1d63-dd01-b6cc-8ce6a81ceea6.htm" />
+        <HelpTOCNode Title="CFCopyTypeIDDescription Method " Url="html/682dec4d-0532-e0d5-e1db-2c848ea096fa.htm" />
+        <HelpTOCNode Title="CFDataCreate Method " Url="html/2ccb178d-e053-9b16-2a4f-18498abaae18.htm" />
+        <HelpTOCNode Title="CFDataGetBytePtr Method " Url="html/678f9bcc-a8ad-cf22-db05-2494571880d8.htm" />
+        <HelpTOCNode Title="CFDataGetBytes Method " Url="html/f2be820d-5f28-1ab5-695f-2c8ecfabf3e1.htm" />
+        <HelpTOCNode Title="CFDataGetLength Method " Url="html/ee7b9ac5-a271-7495-6e28-6e40883c9166.htm" />
+        <HelpTOCNode Title="CFDictionaryCreate Method " Url="html/28e19d12-2a73-f7e3-035b-764547675366.htm" />
+        <HelpTOCNode Title="CFDictionaryGetCount Method " Url="html/5044e538-8284-fbd8-a43c-01838489da06.htm" />
+        <HelpTOCNode Title="CFDictionaryGetKeysAndValues Method " Url="html/91ba9f4f-3bc3-e76a-745c-8717ffd8d65a.htm" />
+        <HelpTOCNode Title="CFDictionaryGetValue Method " Url="html/ae5f805f-bb75-e8ab-1df7-b07766f674d8.htm" />
+        <HelpTOCNode Title="CFGetTypeID Method " Url="html/a7760505-c913-6f70-f61a-0d8903e2b010.htm" />
+        <HelpTOCNode Title="CFNumberCreate Method " Url="html/057bd271-86ce-9776-814e-509feb42530f.htm" />
+        <HelpTOCNode Title="CFNumberGetByteSize Method " Url="html/16f98a8c-28b9-10ff-1368-9a2c4e70611c.htm" />
+        <HelpTOCNode Title="CFNumberGetType Method " Url="html/ea818ac6-debb-8173-0a32-4149054af287.htm" />
+        <HelpTOCNode Title="CFNumberGetValue Method " Url="html/67faf9ab-857d-97b6-d25d-c00c6b3b7a4c.htm" />
+        <HelpTOCNode Title="CFNumberGetValue_1 Method " Url="html/22a9c05c-1e96-b0ae-2efd-5220c2241c03.htm" />
+        <HelpTOCNode Title="CFNumberGetValue_2 Method " Url="html/dd15b58e-8139-cbab-fc36-b91330d28103.htm" />
+        <HelpTOCNode Title="CFNumberGetValue_3 Method " Url="html/595be0a6-1cef-d774-081f-76034141d3ca.htm" />
+        <HelpTOCNode Title="CFPropertyListCreateFromStream Method " Url="html/8ec0d131-198c-5d60-923a-d73ad2c42f73.htm" />
+        <HelpTOCNode Title="CFPropertyListCreateWithData Method " Url="html/be342fd7-532a-acaf-d984-59a6c627fb9e.htm" />
+        <HelpTOCNode Title="CFPropertyListCreateXMLData Method " Url="html/e6a5cc4d-0bde-5015-a1ac-9b3ebcfad9d7.htm" />
+        <HelpTOCNode Id="11006aaf-ff17-4f7a-8cd1-8fa4de46be48" Title="CFPropertyListIsValid Method " Url="html/6d531a2c-0ec7-3e94-aecd-016478aa604e.htm">
+          <HelpTOCNode Title="CFPropertyListIsValid Method (IntPtr, Int32)" Url="html/058b473e-9f15-fbbb-49f5-22d95bd23044.htm" />
+          <HelpTOCNode Title="CFPropertyListIsValid Method (IntPtr, IntPtr)" Url="html/e92dee0e-63f6-08a1-62f1-a1480625339f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CFPropertyListWriteToStream Method " Url="html/a9c213f9-5241-85a0-ae42-33d95724a313.htm" />
+        <HelpTOCNode Title="CFReadStreamClose Method " Url="html/ea02e88b-bc2b-aa10-489e-50b21ce47731.htm" />
+        <HelpTOCNode Title="CFReadStreamCreateWithFile Method " Url="html/9b0c940c-dfe5-f8a0-d683-55ea16dc12a4.htm" />
+        <HelpTOCNode Title="CFReadStreamOpen Method " Url="html/99f57e6b-4355-7e19-8dd3-41c3d46d0fa7.htm" />
+        <HelpTOCNode Title="CFStringGetBytes Method " Url="html/4c73399c-2da9-2939-a689-345b4e0d0f73.htm" />
+        <HelpTOCNode Title="CFStringGetCharacters Method " Url="html/a6d41d50-7bd2-734f-81c2-b8f10210daff.htm" />
+        <HelpTOCNode Title="CFStringGetCharactersPtr Method " Url="html/6154aa19-5564-7183-2500-04946a90222b.htm" />
+        <HelpTOCNode Title="CFStringGetLength Method " Url="html/b2c79978-24b1-334e-e5e1-9f52aefdf839.htm" />
+        <HelpTOCNode Title="CFURLCreateWithFileSystemPath Method " Url="html/9447ec24-8787-3358-e64b-fb4b37357eed.htm" />
+        <HelpTOCNode Title="CFWriteStreamClose Method " Url="html/7478bb13-5a66-9b88-08c2-ba35ed0c5c34.htm" />
+        <HelpTOCNode Title="CFWriteStreamCreateWithFile Method " Url="html/f31b9953-2ec0-4fb0-0ac6-905ff095da35.htm" />
+        <HelpTOCNode Title="CFWriteStreamOpen Method " Url="html/0d027167-13fc-6638-2875-1fba176fdba3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dc4d8b7b-8c27-4f7d-bd70-578f946cd31e" Title="CFNumber Class" Url="html/2f4231b7-6cff-0c16-69a1-97d4bed157ce.htm">
+      <HelpTOCNode Id="59821107-bc5e-4906-a129-f4556520679e" Title="CFNumber Constructor " Url="html/75e70597-d6fb-dde0-b027-33dfd16608d0.htm">
+        <HelpTOCNode Title="CFNumber Constructor " Url="html/9587bc5d-6aa0-cb09-9500-14201a0427e5.htm" />
+        <HelpTOCNode Title="CFNumber Constructor (Int32)" Url="html/7b2158de-424f-6184-004e-a6ed30143d45.htm" />
+        <HelpTOCNode Title="CFNumber Constructor (IntPtr)" Url="html/03b6dec3-4bf5-9207-e11d-371e96e36621.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CFNumber Methods" Url="html/d33faceb-149d-fcdc-9f46-ff134c7ba762.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="CFNumber.CFNumberType Enumeration" Url="html/b3125b25-acfe-2356-bafe-3dc87eb8a4d1.htm" />
+    <HelpTOCNode Id="15ccff0f-dd3e-472d-aa3f-f972c68a3cdf" Title="CFPropertyList Class" Url="html/ba19200b-ac7d-6a5a-8bb5-e5eaf22eafee.htm">
+      <HelpTOCNode Id="0b9e2ba6-421e-4263-90c3-f3e3f9ff80a0" Title="CFPropertyList Constructor " Url="html/408e616d-97bb-a006-3779-65f9531ffc19.htm">
+        <HelpTOCNode Title="CFPropertyList Constructor " Url="html/daaff525-a5d0-de10-37e0-1cc41c8fed56.htm" />
+        <HelpTOCNode Title="CFPropertyList Constructor (IntPtr)" Url="html/8cb5d3bd-20e7-19c4-2213-c0d146e5a5ab.htm" />
+        <HelpTOCNode Title="CFPropertyList Constructor (String)" Url="html/f2c16319-bbc8-9f53-e9fa-0b63178e17b8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CFPropertyList Methods" Url="html/890b3f30-847a-4739-747f-bf0f4f1a4b1d.htm" />
+      <HelpTOCNode Id="98271c75-3ee9-4a8c-a2e5-55d2c9175244" Title="CFPropertyList Type Conversions" Url="html/8fd71a4f-9462-a0cb-a34f-2a8eb319b9b5.htm">
+        <HelpTOCNode Id="65e54a51-c918-495d-848d-fba7299b4f71" Title="Implicit Conversion Operators" Url="html/746b9375-fdf4-8698-efc1-b0ea4343c754.htm">
+          <HelpTOCNode Title="Implicit Conversion (IntPtr to CFPropertyList)" Url="html/ff546648-20df-cc2e-3a23-8b98dac0bb98.htm" />
+          <HelpTOCNode Title="Implicit Conversion (String to CFPropertyList)" Url="html/b18fd3df-3d1c-eb6b-ab52-85b1f2eab148.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFPropertyList to IntPtr)" Url="html/9c78ca30-86b1-459d-d0c0-4b0f7b2f9887.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFPropertyList to String)" Url="html/6d871932-7d08-7124-2452-033cfb459485.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="498ad039-dbdf-4270-b698-7c2247a7cf69" Title="CFRange Structure" Url="html/52c69af4-bda3-abf4-66a6-6a60030c9cec.htm">
+      <HelpTOCNode Title="CFRange Constructor " Url="html/d7d67c0f-ebe9-4be9-9eb2-37e0fecb7656.htm" />
+      <HelpTOCNode Title="CFRange Methods" Url="html/903c8dd6-a5f0-221a-b7e5-e7e20c88f32e.htm" />
+      <HelpTOCNode Id="061381db-2e58-4432-a201-d408d4ca7e18" Title="CFRange Fields" Url="html/a52f85a7-a357-3ba8-928c-8949aa58a2d1.htm">
+        <HelpTOCNode Title="Length Field" Url="html/1cca4054-8844-bfb6-b30e-0df57c8e72d5.htm" />
+        <HelpTOCNode Title="Location Field" Url="html/4bd5975f-f6f9-7645-98b4-8f6df2e8665c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bb8f50ea-8d0f-4c85-b4f3-459413c6274b" Title="CFString Class" Url="html/a1fe3ced-6bc7-5da6-d561-599e7d8da1b5.htm">
+      <HelpTOCNode Id="f195d39a-441a-411e-9ff5-6d45133f8b6d" Title="CFString Constructor " Url="html/c35a600f-02d3-fa52-ef7e-c72daba1e386.htm">
+        <HelpTOCNode Title="CFString Constructor " Url="html/1c1bab8b-1c54-f6de-1253-9bf6343f611c.htm" />
+        <HelpTOCNode Title="CFString Constructor (IntPtr)" Url="html/f0d1d5d0-0a49-da4c-50cc-ea2a79689017.htm" />
+        <HelpTOCNode Title="CFString Constructor (String)" Url="html/c2579af4-831d-39d9-b6fe-1a23eccc0a04.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dfa08982-723e-494f-b2cf-2a5891c4e43e" Title="CFString Methods" Url="html/ba5c3a5c-99fb-46ed-9863-0d77b9e9250e.htm">
+        <HelpTOCNode Title="isString Method " Url="html/b3193b89-b212-8d40-1647-de342ca2b97f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3dfb88de-38c6-4cca-b3d0-d3847a85bf20" Title="CFString Type Conversions" Url="html/5ed16e7e-cdfc-1e7f-1814-6954deb7d4c9.htm">
+        <HelpTOCNode Id="9144abe7-488d-4fa9-aac5-1b14ab09533f" Title="Implicit Conversion Operators" Url="html/5ab1ef6e-20f3-c2bc-3ce8-34c0c47ed85b.htm">
+          <HelpTOCNode Title="Implicit Conversion (IntPtr to CFString)" Url="html/60f0cb5e-ae68-5061-92cf-860585c272cf.htm" />
+          <HelpTOCNode Title="Implicit Conversion (String to CFString)" Url="html/2e2b6379-b0a2-069d-0fdc-08dc939bfa0c.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFString to IntPtr)" Url="html/f66e9f35-3ed1-50d4-cc88-2e56b895906f.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFString to String)" Url="html/32b85065-84a3-a25f-a850-525ced36b7ae.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5618bc44-b42e-47f8-a14f-1c03b01280d3" Title="CFType Class" Url="html/b934574a-ea84-fb45-dd05-73c802b76a6e.htm">
+      <HelpTOCNode Id="19340938-7114-4fa3-a07d-e8979fe900a1" Title="CFType Constructor " Url="html/0ce7b7f8-6c51-db9d-8bc4-a22328b9ee6e.htm">
+        <HelpTOCNode Title="CFType Constructor " Url="html/88aaa81c-978e-71fb-d040-2eeab5225721.htm" />
+        <HelpTOCNode Title="CFType Constructor (IntPtr)" Url="html/8408d5d8-8e78-efc7-bb9a-2a7ee5173eda.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e4767f6a-696b-414a-b5a4-d00ae801047b" Title="CFType Methods" Url="html/1ba3ba9b-6f13-4776-5211-610f86065af6.htm">
+        <HelpTOCNode Title="GetDescription Method " Url="html/dbf3ff59-a9e0-7ec9-d6ce-369bd21041a0.htm" />
+        <HelpTOCNode Title="GetTypeID Method " Url="html/1daaebd4-21c2-3753-bf35-f2736feabb29.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/65ae9a3a-3173-c3b7-0385-af578033c688.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0b7f961a-2d69-4aa7-8a19-0a741c5e93ea" Title="CFType Type Conversions" Url="html/b0c68b5a-f207-c39f-8dee-16180c902416.htm">
+        <HelpTOCNode Id="d597d9ec-1fbd-49b2-932b-c2e3f1ab27b1" Title="Implicit Conversion Operators" Url="html/a1486eef-e4e3-6abc-e1ee-262d5c03eec9.htm">
+          <HelpTOCNode Title="Implicit Conversion (IntPtr to CFType)" Url="html/abf019e2-dc87-c474-e5d2-2960c45a7b9b.htm" />
+          <HelpTOCNode Title="Implicit Conversion (CFType to IntPtr)" Url="html/09906d06-f277-3dd1-d792-5cba28c1bd3e.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="779ada29-1039-4a61-9e2f-019ff7719de2" Title="imobileDeviceiDevice" Url="html/3bcf7209-e7f3-6627-52dd-9305ef729fe6.htm">
+    <HelpTOCNode Id="15671036-41a6-4a16-8a51-e013d4695e18" Title="iDevice Class" Url="html/6937d973-080f-d5ba-c8a8-5171842cac6d.htm">
+      <HelpTOCNode Id="91dde588-19fa-4cc6-9604-073547b6c87e" Title="iDevice Constructor " Url="html/d271e0c0-419e-afb2-1a2b-2b6b38d296ce.htm">
+        <HelpTOCNode Title="iDevice Constructor (IntPtr, String)" Url="html/266ff0e6-03ce-cf46-b97f-539e016543cd.htm" />
+        <HelpTOCNode Title="iDevice Constructor (IntPtr, String, String, String, String)" Url="html/de12ab9a-b002-b9e3-171b-b8d540b87fcb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="iDevice Methods" Url="html/4dc65fda-1db7-8fe0-71a3-b0c7fe487c49.htm" />
+      <HelpTOCNode Id="c8125631-e9ed-4ab2-b513-469ccb63d636" Title="iDevice Fields" Url="html/cfb744d1-a6ec-d387-30f0-df0123a54e24.htm">
+        <HelpTOCNode Title="Connected Field" Url="html/f7469620-1cb2-b873-0478-d4d2cfc4a698.htm" />
+        <HelpTOCNode Title="DeviceHardware Field" Url="html/ffee7ce7-3e8f-2ecc-4090-41fc829f9df5.htm" />
+        <HelpTOCNode Title="Handle Field" Url="html/9884c5bd-d790-ce9a-d45d-19df18fa71db.htm" />
+        <HelpTOCNode Title="InstallationProxyClient Field" Url="html/8a18f13e-b392-8210-ba60-2e119cb460d0.htm" />
+        <HelpTOCNode Title="InstallationProxyService Field" Url="html/af5c08e1-41e3-2c67-0a7e-163445b2c371.htm" />
+        <HelpTOCNode Title="iOSVersion Field" Url="html/aef18fba-d0e7-adef-b853-8e680721748a.htm" />
+        <HelpTOCNode Title="LockdownClient Field" Url="html/13db47c7-caa2-ab13-4b9e-0a05cc896d5e.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/6574b1f2-3dc5-d7ff-7636-66ced495dc7c.htm" />
+        <HelpTOCNode Title="ProductName Field" Url="html/000165a9-9ede-ba2d-1cea-9c8d9376c86a.htm" />
+        <HelpTOCNode Title="ProductType Field" Url="html/08875681-8fc9-7ca7-a6cd-5cae2174b968.htm" />
+        <HelpTOCNode Title="SerialNumber Field" Url="html/bed60414-f160-f768-7779-6e4f23ca1995.htm" />
+        <HelpTOCNode Title="Udid Field" Url="html/2719d8c4-1049-e5ed-4fe3-fcfe813fe0af.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e217cc9e-82e2-44c3-8e09-34cc0373d509" Title="LibPlist Class" Url="html/a694d8c6-cece-2c70-ae92-bde0ef05a199.htm">
+      <HelpTOCNode Title="LibPlist Constructor " Url="html/dd504fc4-431b-9b27-bafa-3f7bd218c670.htm" />
+      <HelpTOCNode Id="20e1a654-00c0-47a9-8d77-2ef4ffa9716e" Title="LibPlist Methods" Url="html/2d93c179-46a2-2a44-dc26-f72995dc51b3.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/7d765105-1a58-6889-f0ef-fd4c53b5dd75.htm" />
+        <HelpTOCNode Title="Finalize Method " Url="html/4e1a3240-d01e-887b-0cb0-ea32f169c027.htm" />
+        <HelpTOCNode Title="FromFile Method " Url="html/fe9cb7dc-151a-2ce3-8be0-c44d36e05907.htm" />
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/f186d640-0de2-a35d-8298-9bfee2754a8f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6766487f-e6da-4113-bc3a-9302cd8edf93" Title="LibPlist Fields" Url="html/bca0867c-11c6-e39a-e51b-fdfb071f92d2.htm">
+        <HelpTOCNode Title="test Field" Url="html/f2d77670-daeb-eea9-a0ba-f3cff3381c45.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1e5b7296-ac06-4164-9cee-4c5e37da8aaa" Title="PlistArray Class" Url="html/5ae8fd42-4f16-51c8-ff90-483fee4d21fc.htm">
+      <HelpTOCNode Title="PlistArray Constructor " Url="html/282da509-28b7-f650-461e-a5d3f82bb7ea.htm" />
+      <HelpTOCNode Id="507d5e66-f678-4b5f-b227-975f396a28f5" Title="PlistArray Properties" Url="html/418e5bdb-bea7-af13-95e6-918b464a221a.htm">
+        <HelpTOCNode Title="Item Property " Url="html/bea9bf91-1c98-7606-fb8a-9217d832460c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a81450cb-f103-4e9e-a775-18c58186bb4e" Title="PlistArray Methods" Url="html/0e42d845-1c1b-91f8-24aa-d0f2b9e0f7c4.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1b99ba6a-c750-bb8e-665d-4e7e14d4cbb6.htm" />
+        <HelpTOCNode Title="Finalize Method " Url="html/9fbc745b-1a00-742d-1a7d-1d5738d24a3d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8368bf70-ed1b-458a-9ca9-f4c3d2d10053" Title="PlistEnumerator Class" Url="html/1b1718f5-c967-ad00-f7a0-ff3fee10a1d3.htm">
+      <HelpTOCNode Title="PlistEnumerator Constructor " Url="html/617d0fa9-17cc-cca4-48fa-a383c4a6c5f5.htm" />
+      <HelpTOCNode Id="dfddab31-d449-47dd-aac2-7f273ffa2f74" Title="PlistEnumerator Properties" Url="html/49023587-1a0e-1a83-4ff0-5d601f5d421c.htm">
+        <HelpTOCNode Title="Current Property " Url="html/78988b27-c6bd-77d7-f19f-545c99a1b957.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9f428366-2917-41c2-b310-e6da1afde9f1" Title="PlistEnumerator Methods" Url="html/673af432-31f3-17cd-7b70-811ac6ad2d1d.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/9cb7283a-92b7-a597-fb74-386068136c0c.htm" />
+        <HelpTOCNode Title="MoveNext Method " Url="html/d0120a0c-a6ca-c639-a0f4-3655d5c2810c.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/18d14844-da6a-2a11-ee4a-524680e28815.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="51de7087-e0cd-45ea-9c24-c42c924666e5" Title="PlistNative Class" Url="html/aa7ff08f-f511-63e0-55fe-8682a744ab52.htm">
+      <HelpTOCNode Title="PlistNative Constructor " Url="html/4aa2e5b3-6559-9876-0967-e29d8f935e6c.htm" />
+      <HelpTOCNode Title="PlistNative Methods" Url="html/43b37df2-9f0c-e9f9-77c7-f2098cf1a658.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="PlistType Enumeration" Url="html/fa697bba-9cb4-f818-c541-0542d9e5a7a7.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="fe9dd31e-18e3-4ae3-a764-014ba438d050" Title="MK.MobileDevice" Url="html/6b8c84d7-2866-3eca-d6e1-76953f5af89c.htm">
+    <HelpTOCNode Id="fc913a08-b4c1-4204-94b6-f11b7343630b" Title="ConnectEventArgs Class" Url="html/392c5334-9e4c-4cf6-52f9-9b550630a8d6.htm">
+      <HelpTOCNode Id="d6a74ee7-f6e1-420a-b26c-667ccc2f2254" Title="ConnectEventArgs Properties" Url="html/d34c8972-2738-1dc4-4722-6b00edc1eced.htm">
+        <HelpTOCNode Title="Device Property " Url="html/8524f7ee-c4f6-d75d-5563-0a907e3f5ef9.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/4b36b0d8-9969-7267-fb29-b5dc491c4d45.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ConnectEventArgs Methods" Url="html/e560e9a8-c729-8e12-ee1a-75a8843a5bc0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ConnectEventHandler Delegate" Url="html/2f8fdb77-fde5-9c39-3a32-880d4bbf48ec.htm" />
+    <HelpTOCNode Title="DeviceAttachedHandler Delegate" Url="html/e8da8572-150b-1608-f495-c13437aeb176.htm" />
+    <HelpTOCNode Id="c1e20eda-e5f1-4b74-abed-7b7568caa821" Title="DeviceNotificationEventArgs Class" Url="html/56bc964c-871a-edf6-deeb-c81ce61b37fc.htm">
+      <HelpTOCNode Title="DeviceNotificationEventArgs Methods" Url="html/cef65704-193e-6a93-7517-661a5281154a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5fc86a88-1ee5-4e4f-86bd-20368d28dbcc" Title="iOSApplication Class" Url="html/9616ffde-49f7-7526-86c0-3258fb562b53.htm">
+      <HelpTOCNode Title="iOSApplication Constructor " Url="html/06cb9535-dd8a-bbb7-86fc-e05da54f3df8.htm" />
+      <HelpTOCNode Title="iOSApplication Methods" Url="html/dfe9e68c-3735-c9e8-8d88-2ec5ae055fb3.htm" />
+      <HelpTOCNode Id="a991f4f2-9e26-403d-b968-be207614179c" Title="iOSApplication Fields" Url="html/46a653fb-fa4b-0eba-aed3-3bb36a98c963.htm">
+        <HelpTOCNode Title="ApplicationIdentifier Field" Url="html/02ba95d2-e56a-a98a-2b32-b787755291ff.htm" />
+        <HelpTOCNode Title="DynamicDiskUsage Field" Url="html/2c4b07f0-dfa9-bb7b-a636-c01d72512023.htm" />
+        <HelpTOCNode Title="ExecutableName Field" Url="html/79a8f3e5-92d9-739b-6c15-1ca45f2aed2a.htm" />
+        <HelpTOCNode Title="Identifier Field" Url="html/da25b37c-e37b-ad70-7830-ee47c9428b57.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/342e76cd-60e7-c31a-a7aa-fc5a5c81ed91.htm" />
+        <HelpTOCNode Title="StaticDiskUsage Field" Url="html/d9e900d5-a8e2-e6de-598c-288b715f8325.htm" />
+        <HelpTOCNode Title="Type Field" Url="html/0519fde3-3282-15eb-5cf5-ca9cc0a78a4b.htm" />
+        <HelpTOCNode Title="Version Field" Url="html/324f6240-5088-fb21-0a3f-d316c5393ead.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4737d0de-b001-48ae-a1d8-007265728b9c" Title="iPhone Class" Url="html/f97548a2-6d65-35fc-9b40-b0c102e6f226.htm">
+      <HelpTOCNode Title="iPhone Constructor " Url="html/f674d932-b56d-ef78-3133-534d4a21d5ec.htm" />
+      <HelpTOCNode Id="96b0da4e-b61e-48cb-8779-913937a7ec22" Title="iPhone Properties" Url="html/ac9e5090-7f30-e90c-e267-53bb22108544.htm">
+        <HelpTOCNode Title="_DeviceHandle Property " Url="html/a13db724-b55f-cfff-6ef1-1cd3b4842208.htm" />
+        <HelpTOCNode Title="ActivationState Property " Url="html/1ec9f5b8-b31e-9868-9b1d-1cbaf5d0ad2a.htm" />
+        <HelpTOCNode Title="AFCHandle Property " Url="html/24ad4fe0-9f6e-75d6-7e92-213df161f567.htm" />
+        <HelpTOCNode Title="CurrentDirectory Property " Url="html/0c40ee65-e680-945b-481b-59ffae67d5eb.htm" />
+        <HelpTOCNode Title="Device Property " Url="html/1a139897-7d39-7c48-3842-f6d3afff3175.htm" />
+        <HelpTOCNode Title="DeviceBasebandBootloaderVersion Property " Url="html/8ee8de1d-1d6d-6bc3-ff4c-a0ea7e6ac423.htm" />
+        <HelpTOCNode Title="DeviceBasebandVersion Property " Url="html/cf4394a4-1f68-e47a-3091-efab5628ac9a.htm" />
+        <HelpTOCNode Title="DeviceBuildVersion Property " Url="html/94a7a213-75e7-cae8-bf32-e0d3ff50382d.htm" />
+        <HelpTOCNode Title="DeviceFirmwareVersion Property " Url="html/c7f2e379-e504-554e-fb24-55b880bb48ba.htm" />
+        <HelpTOCNode Title="DeviceId Property " Url="html/26dcfa1f-3907-58f4-1350-1acdb222b04e.htm" />
+        <HelpTOCNode Title="DeviceIntegratedCircuitCardIdentity Property " Url="html/9e76f38a-db83-7cf2-1569-b59127024421.htm" />
+        <HelpTOCNode Title="DeviceiTunesHasConnected Property " Url="html/967b6d78-f508-3d16-0e4d-3c9805418092.htm" />
+        <HelpTOCNode Title="DeviceModelNumber Property " Url="html/fce771f4-6aeb-ce1e-9af0-92f910572bb5.htm" />
+        <HelpTOCNode Title="DeviceName Property " Url="html/1ce7477e-8028-787d-3fb5-6e5a13fce2fc.htm" />
+        <HelpTOCNode Title="DevicePhoneNumber Property " Url="html/a707c7ad-57bf-6382-24ae-2d89f2e669b8.htm" />
+        <HelpTOCNode Title="DeviceProductType Property " Url="html/87350b66-9660-08f9-9722-75962aec163d.htm" />
+        <HelpTOCNode Title="DeviceSerial Property " Url="html/8d2719e0-c92e-4143-41e1-9fbe17e9c7d9.htm" />
+        <HelpTOCNode Title="DeviceSIMStatus Property " Url="html/466b79b2-4c1c-ef33-ac8f-8afe72897703.htm" />
+        <HelpTOCNode Title="DeviceType Property " Url="html/c5164bec-8243-8f1f-d00c-d6f93a31f392.htm" />
+        <HelpTOCNode Title="DeviceVersion Property " Url="html/979d2600-1b0d-bb12-dd0d-7a27b7eea9d4.htm" />
+        <HelpTOCNode Title="DeviceWiFiAddress Property " Url="html/b851ca24-8a9d-24b3-4267-0c7e42c9851a.htm" />
+        <HelpTOCNode Title="IInternationalMobileSubscriberIdentity Property " Url="html/c4551f8b-0160-1dd1-59a4-f62bc3c1a8f2.htm" />
+        <HelpTOCNode Title="InternationalMobileEquipmentIdentity Property " Url="html/2385bd0e-ada7-54d4-f54b-58437bfce39a.htm" />
+        <HelpTOCNode Title="IsConnected Property " Url="html/b25ad055-564b-030f-ae70-1a880e19c479.htm" />
+        <HelpTOCNode Title="IsJailbreak Property " Url="html/93ecfc96-f0e9-38f8-18a4-90c44623b8f4.htm" />
+        <HelpTOCNode Title="IsWifiConnect Property " Url="html/ef873234-d0c3-dfb7-9b47-6377a265cf4d.htm" />
+        <HelpTOCNode Title="ProductVersion Property " Url="html/7b32da4f-3421-491e-0955-d18cf7727a07.htm" />
+        <HelpTOCNode Title="PropertyDomains Property " Url="html/63fd13b5-4e16-bf42-50de-6f7c48db4cac.htm" />
+        <HelpTOCNode Title="UniqueChipID Property " Url="html/8747bab5-6392-e60c-0b85-2a5104eb1698.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="72eff7b9-7fc7-4517-a206-8fbdb025bd48" Title="iPhone Methods" Url="html/ec99acb9-6a6e-e18b-2127-59d94b813ce8.htm">
+        <HelpTOCNode Title="Base64Decode Method " Url="html/4c15dd7a-4fbf-0972-52d8-3bdf1429326f.htm" />
+        <HelpTOCNode Title="ConnectViaHouseArrest Method " Url="html/b5bcd964-d960-a2e9-8542-699099ee7020.htm" />
+        <HelpTOCNode Title="Copy Method " Url="html/333625a6-0e74-ce64-cd6f-9e949e708101.htm" />
+        <HelpTOCNode Title="CopyFileFromDevice Method " Url="html/8a14770e-4ec0-d065-f61a-a60345bca9df.htm" />
+        <HelpTOCNode Title="CopyFileToDevice Method " Url="html/9f6b9298-6cba-6e9e-74ba-6f36a04ad14e.htm" />
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/c3da6727-d24a-5e84-a94e-cad35d33deec.htm" />
+        <HelpTOCNode Title="Deactivate Method " Url="html/b2301f8c-f1c3-872d-aab9-a692bfca1077.htm" />
+        <HelpTOCNode Title="DeleteDirectory Method " Url="html/f701b3ae-43fd-2044-409c-1f49472a750c.htm" />
+        <HelpTOCNode Title="DeleteFile Method " Url="html/33a9f021-741b-ed11-45e7-9fd4e6db35d6.htm" />
+        <HelpTOCNode Title="EnterDFU Method " Url="html/820e7cb9-5d8a-9a60-47fd-42d7128cb3ef.htm" />
+        <HelpTOCNode Title="FileExists Method " Url="html/fd683b0a-4c42-efa5-0acb-ba8592395f20.htm" />
+        <HelpTOCNode Title="FileSize Method " Url="html/a991828a-52dd-6e70-7f96-d0167838688b.htm" />
+        <HelpTOCNode Title="FixRecovery Method " Url="html/2e50fb60-959f-1056-3d9f-4ee5cc4fcf9f.htm" />
+        <HelpTOCNode Title="GetAFCInfo Method " Url="html/457180f1-af05-6b04-1169-7ae5ce8d66e0.htm" />
+        <HelpTOCNode Title="GetApplicationList Method " Url="html/8e13dddc-d1a3-fc78-a802-4515e997a89e.htm" />
+        <HelpTOCNode Title="GetContents Method " Url="html/cddb53d8-2002-cdd9-796a-c6b581e6cfa1.htm" />
+        <HelpTOCNode Title="GetCurrentDirectory Method " Url="html/d2d90aac-944d-1968-6f8f-fc91019540fe.htm" />
+        <HelpTOCNode Title="GetDirectories Method " Url="html/4b42b811-7a07-795d-47b4-f3ff91ee664f.htm" />
+        <HelpTOCNode Title="GetDirectoryRoot Method " Url="html/900f300c-f812-7169-d09e-a4b728249c89.htm" />
+        <HelpTOCNode Title="GetFileInfo Method " Url="html/f9cb9ce2-4ea6-6c87-e4d2-cdacb621ca01.htm" />
+        <HelpTOCNode Title="GetFiles Method " Url="html/d7ca77f7-fb4b-5c36-9683-8a210a689af5.htm" />
+        <HelpTOCNode Title="GetIconLayout Method " Url="html/55208de8-1cc6-b389-f3e7-739d2d082854.htm" />
+        <HelpTOCNode Title="getLastError Method " Url="html/51805e72-6e70-ead7-cf02-35d198081500.htm" />
+        <HelpTOCNode Title="InitLibiMobileDevice Method " Url="html/1a14d2b4-7623-a6be-abd8-133c97906905.htm" />
+        <HelpTOCNode Title="IsDirectory Method " Url="html/3832049b-d5d7-6896-0b09-722e6dbcd7db.htm" />
+        <HelpTOCNode Title="IsFile Method " Url="html/b76282f4-a85c-23af-e504-c107ba91a0e4.htm" />
+        <HelpTOCNode Title="IsLink Method " Url="html/41362e97-829c-5786-aae5-5599e1af0862.htm" />
+        <HelpTOCNode Title="MountDeveloperDisk Method " Url="html/0b17d39e-aead-6e53-5520-daf5c194261b.htm" />
+        <HelpTOCNode Title="OnConnect Method " Url="html/37d3ba6b-8ef4-7c29-1c22-5ca9967853a4.htm" />
+        <HelpTOCNode Title="OnDfuConnect Method " Url="html/c78fb67c-6102-086e-ff61-2d59c74d90cb.htm" />
+        <HelpTOCNode Title="OnDfuDisconnect Method " Url="html/6025357e-d192-5342-4152-e777800a9a0e.htm" />
+        <HelpTOCNode Title="OnDisconnect Method " Url="html/a89c8693-be8b-cff1-b6f0-a624568ca42b.htm" />
+        <HelpTOCNode Title="OnHostAtached Method " Url="html/1c460a52-4501-74c5-e7c2-e029b7642e0c.htm" />
+        <HelpTOCNode Title="OnHostDisconnected Method " Url="html/ab14d40f-d9ee-f167-e3a3-92a114358760.htm" />
+        <HelpTOCNode Title="OnRecoveryModeEnter Method " Url="html/9d908261-1fd4-0e18-467d-abc187595238.htm" />
+        <HelpTOCNode Title="OnRecoveryModeLeave Method " Url="html/38bf878d-2e49-4632-186b-3cfa7191e27c.htm" />
+        <HelpTOCNode Title="Pair Method " Url="html/9d64e084-25ab-ab97-4623-772ef2214633.htm" />
+        <HelpTOCNode Title="PingDevice Method " Url="html/057f03f8-3507-8bff-350e-8723e07fd6fb.htm" />
+        <HelpTOCNode Title="QueryDeveloperDisk Method " Url="html/38852efc-f3d5-4090-01cc-5ae8d664908c.htm" />
+        <HelpTOCNode Title="Reboot Method " Url="html/6a8079d4-c549-b09e-255e-c12f85c702f9.htm" />
+        <HelpTOCNode Title="RebootOnDisconnect Method " Url="html/45e731d9-02d1-ccb9-930c-4451a623537d.htm" />
+        <HelpTOCNode Title="RebootRecovery Method " Url="html/5f0dffd5-58fa-0b75-0e4c-a17e71a879cf.htm" />
+        <HelpTOCNode Title="RebootRestore Method " Url="html/6be900f6-9090-52e9-33b9-a8ce5fbe6649.htm" />
+        <HelpTOCNode Title="ReConnect Method " Url="html/c93e0754-8fad-1f3d-16e3-a5c53a8ee530.htm" />
+        <HelpTOCNode Title="ReconnectAFC Method " Url="html/8ac7786c-55dd-d5e5-2920-d210be6c14ab.htm" />
+        <HelpTOCNode Title="Rename Method " Url="html/9c6da68c-374f-117b-ff4c-9ed7e5251624.htm" />
+        <HelpTOCNode Title="RequestBatteryInfo Method " Url="html/f69bfcb5-ead9-5f6b-a7b8-685c44b2b33b.htm" />
+        <HelpTOCNode Title="RequestDiagnostics Method " Url="html/f6a74b7b-07e5-351a-17a6-d923e5037c06.htm" />
+        <HelpTOCNode Title="RequestProperties Method " Url="html/63ba776d-c9fc-4155-5813-6d3339c3099b.htm" />
+        <HelpTOCNode Id="40b8e2a5-9a96-456a-afbf-6575e43e2d4b" Title="RequestProperty Method " Url="html/a18e59f0-17b9-6061-c724-ecbed8e8b1be.htm">
+          <HelpTOCNode Title="RequestProperty Method (String)" Url="html/6e6d2ecf-c435-48e4-cff9-170d91982877.htm" />
+          <HelpTOCNode Title="RequestProperty Method (String, String)" Url="html/eaa6d0ac-6a7d-96d4-0b03-cbb8a88e8952.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SaveScreenshot Method " Url="html/d212f6b6-24c2-40e6-e938-70b7ea511b34.htm" />
+        <HelpTOCNode Title="sendCommandToDevice Method " Url="html/a8554d45-f6fe-78fd-0ba2-f76fcae65cc4.htm" />
+        <HelpTOCNode Title="sendFileToDevice Method " Url="html/5e073116-2731-dd31-4fec-bf78d9869520.htm" />
+        <HelpTOCNode Title="SetCurrentDirectory Method " Url="html/c3f613bb-ea55-bd0b-3e85-fc57437f64a9.htm" />
+        <HelpTOCNode Title="SetIconLayout Method " Url="html/6e4bf368-443d-cb42-a71a-91cb72fddf58.htm" />
+        <HelpTOCNode Title="SetProperty Method " Url="html/98725526-e155-0aae-0dff-a02187b4974d.htm" />
+        <HelpTOCNode Title="Shutdown Method " Url="html/bf7295ec-3457-ff5a-1d43-a120395b8b76.htm" />
+        <HelpTOCNode Title="ShutdownOnDisconnect Method " Url="html/74505b0f-cdc7-9a91-426d-b8c8f2ac5de0.htm" />
+        <HelpTOCNode Title="Sleep Method " Url="html/9b17a6a7-9c58-c770-230c-5981aeca32f6.htm" />
+        <HelpTOCNode Title="UninstallApplication Method " Url="html/2d6fb65e-3154-9982-4edd-8044fc89e909.htm" />
+        <HelpTOCNode Title="Unpair Method " Url="html/1853f1f9-a110-e617-c918-7991ba8aa85b.htm" />
+        <HelpTOCNode Title="ValidatePairing Method " Url="html/123790e3-3781-a5f2-71dd-7962459384b3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b29fe484-1c85-423c-98f3-be5a16e3747f" Title="iPhone Events" Url="html/b325959c-b64f-a883-d53a-05fd8bacfbaa.htm">
+        <HelpTOCNode Title="Connect Event" Url="html/cf4d7035-b307-2433-c7b5-479b39e407ce.htm" />
+        <HelpTOCNode Title="DfuConnect Event" Url="html/722420d0-9835-71e9-77e0-019f6d6cc9f4.htm" />
+        <HelpTOCNode Title="DfuDisconnect Event" Url="html/a3e77640-1119-7c57-9105-2f613100eff8.htm" />
+        <HelpTOCNode Title="Disconnect Event" Url="html/4c9c57d1-1e14-cc17-c869-5d0d9cb9874b.htm" />
+        <HelpTOCNode Title="HostAttached Event" Url="html/5dba5754-96d2-9208-786a-8fafbda848a8.htm" />
+        <HelpTOCNode Title="HostDisconnected Event" Url="html/6bcbbee4-02ed-1878-0b9d-ee4984bf8259.htm" />
+        <HelpTOCNode Title="RecoveryModeEnter Event" Url="html/a1124bb7-dba3-5d4f-bcc3-ed69b3595345.htm" />
+        <HelpTOCNode Title="RecoveryModeLeave Event" Url="html/37b98a2d-b30d-cbd3-301a-4d6cc4d0ad31.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9fb45896-bd11-4e3b-8bb6-bfc6c5ecb94c" Title="iPhone Fields" Url="html/87bfcc55-9e59-a1e8-ad0d-75442328e20e.htm">
+        <HelpTOCNode Title="attachedToHost Field" Url="html/7ebfa5ac-678c-771d-2913-d1dfb2c49874.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ddd7388a-d019-4875-83bf-c996a194e896" Title="iPhoneCK Class" Url="html/b84eba28-ce01-5646-183d-7b0f1968296e.htm">
+      <HelpTOCNode Title="iPhoneCK Constructor " Url="html/9961b115-2209-716c-4bad-04dd75320861.htm" />
+      <HelpTOCNode Title="iPhoneCK Methods" Url="html/258f5c89-3118-d39e-5da3-d98130c63b8c.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6ae19043-3c07-4a4d-a8d2-bf9f5d76d663" Title="iPhoneFile Class" Url="html/56a51b34-5af2-721c-b326-7d51fbd69f40.htm">
+      <HelpTOCNode Id="13ec774d-1581-4488-bc46-42a60498e7e8" Title="iPhoneFile Properties" Url="html/8d9a2063-f454-574a-76c9-7c3890a82962.htm">
+        <HelpTOCNode Title="CanRead Property " Url="html/56674eab-a386-56c4-462b-6bf4f4c77768.htm" />
+        <HelpTOCNode Title="CanSeek Property " Url="html/4565eca1-6e8b-72ad-9010-4ea5d167d9c9.htm" />
+        <HelpTOCNode Title="CanTimeout Property " Url="html/5db77f5b-d7d6-33a7-f31c-7e9a9571b5d2.htm" />
+        <HelpTOCNode Title="CanWrite Property " Url="html/5ff2ef6a-44a0-29dd-3b2e-155838161f43.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/574ad0de-0d9b-f63a-2e5a-0ea1c25bf0b7.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/6d935c18-f387-55a9-f09e-747fac298c75.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="41f939b0-1cd1-41fa-8061-42e948e1a578" Title="iPhoneFile Methods" Url="html/3296bead-4124-3ccb-1f59-300478bd6f8b.htm">
+        <HelpTOCNode Id="2258c255-3aeb-4542-9091-00a3f9e54e6c" Title="Dispose Method " Url="html/3adb2830-348f-965d-18bb-cb96622043bb.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/f5bfc8dd-d1da-479d-4355-b5bb06abfd59.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Flush Method " Url="html/b14e51ce-abf5-e059-ea67-702717d04429.htm" />
+        <HelpTOCNode Title="Open Method " Url="html/71b6e468-a585-1596-04d5-7be026bb1c61.htm" />
+        <HelpTOCNode Title="OpenRead Method " Url="html/c2c709c0-9ea7-9fd7-d5c1-9388163ec5ed.htm" />
+        <HelpTOCNode Title="OpenWrite Method " Url="html/3bb9ccfe-f993-7988-c983-c9250713f4a3.htm" />
+        <HelpTOCNode Title="Read Method " Url="html/60a1201a-86f2-a488-634d-ca4242219dbe.htm" />
+        <HelpTOCNode Title="Seek Method " Url="html/a88c7176-da4c-78cf-fe29-7c27ba63826e.htm" />
+        <HelpTOCNode Title="SetLength Method " Url="html/0d0d1051-82d9-42d4-5642-0291f50cc428.htm" />
+        <HelpTOCNode Title="Write Method " Url="html/09a1cc3f-746b-769f-26c8-9ee9ae660f4e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="26bcc184-1733-4ff9-9074-5dfb7fd68d80" Title="ITMDConnectEventArgs Class" Url="html/0c785411-0a64-0067-90a2-84a67c075855.htm">
+      <HelpTOCNode Id="b6193c2a-6d6e-434c-ba1c-05a8b595baef" Title="ITMDConnectEventArgs Properties" Url="html/99302b66-3a00-0c62-2ff0-5444416554d0.htm">
+        <HelpTOCNode Title="Device Property " Url="html/a9595d3a-b55f-67e6-9fc2-8360d34fd916.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/6a594dc8-833b-bcfa-6ec0-0395c02a8a6f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ITMDConnectEventArgs Methods" Url="html/83d1785d-20ea-5dfc-8fd0-38101045e0f5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ITMDConnectEventHandler Delegate" Url="html/7fb5595e-8b71-43c8-859b-4c08c4a8097b.htm" />
+    <HelpTOCNode Id="b53d6078-9304-400c-b8a9-c1079a895e46" Title="iTMDiPhone Class" Url="html/5afae577-7469-d292-2602-e6b29750c7c0.htm">
+      <HelpTOCNode Title="iTMDiPhone Constructor " Url="html/c6305bdf-134f-a3d6-4e10-c9dc4f79acc5.htm" />
+      <HelpTOCNode Id="2f6760aa-9a8a-4fd9-8f65-a4dc3d55ba5e" Title="iTMDiPhone Properties" Url="html/c8c9fc20-3c4d-1495-719d-12b311307bd7.htm">
+        <HelpTOCNode Title="_DeviceHandle Property " Url="html/c63cb8b3-7098-c04f-f5b4-21f884d7394d.htm" />
+        <HelpTOCNode Title="ActivationState Property " Url="html/a1bd042d-198f-5cba-89ec-347a04853edc.htm" />
+        <HelpTOCNode Title="AFCHandle Property " Url="html/9cd01249-af0e-c365-6d61-72b5acf775be.htm" />
+        <HelpTOCNode Title="CurrentDirectory Property " Url="html/89dfd449-481b-34d0-ec30-6df99dd7c81c.htm" />
+        <HelpTOCNode Title="Device Property " Url="html/b3290827-fc33-5bb7-0ad0-62bf760d54d2.htm" />
+        <HelpTOCNode Title="DeviceBasebandBootloaderVersion Property " Url="html/71b1f599-756f-3e03-7819-bdd6e4347dfc.htm" />
+        <HelpTOCNode Title="DeviceBasebandVersion Property " Url="html/bcd25833-4a23-ad15-4a19-bcf28b278143.htm" />
+        <HelpTOCNode Title="DeviceBuildVersion Property " Url="html/f70c31b7-c1c4-92ce-f1d1-e388855156ad.htm" />
+        <HelpTOCNode Title="DeviceFirmwareVersion Property " Url="html/b139d892-c799-525d-77c2-786ab4881b96.htm" />
+        <HelpTOCNode Title="DeviceId Property " Url="html/5cee8c9e-399a-1b24-e10e-e9232ee9ab4e.htm" />
+        <HelpTOCNode Title="DeviceIntegratedCircuitCardIdentity Property " Url="html/feeda8e9-da10-0aa6-3169-3d9300d598ce.htm" />
+        <HelpTOCNode Title="DeviceiTunesHasConnected Property " Url="html/73cbe7c7-3a98-eb3f-8144-5fdf36ee3587.htm" />
+        <HelpTOCNode Title="DeviceModelNumber Property " Url="html/f59a8beb-81c7-4532-1089-2c86ef97d5a3.htm" />
+        <HelpTOCNode Title="DeviceName Property " Url="html/559aa60d-4163-b700-894a-4def3a6f57a4.htm" />
+        <HelpTOCNode Title="DevicePhoneNumber Property " Url="html/f12c7756-b5a8-7796-ce2f-adec10459324.htm" />
+        <HelpTOCNode Title="DeviceProductType Property " Url="html/a39293b5-7e3a-5d79-6c82-045984da5144.htm" />
+        <HelpTOCNode Title="DeviceSerial Property " Url="html/c576b661-bb09-d0eb-3630-a075018adb54.htm" />
+        <HelpTOCNode Title="DeviceSIMStatus Property " Url="html/9281d07f-91d4-23c4-6e2f-56c78e9669f5.htm" />
+        <HelpTOCNode Title="DeviceType Property " Url="html/c20f52f9-af98-9fd4-bf4d-962a3c99f9b2.htm" />
+        <HelpTOCNode Title="DeviceVersion Property " Url="html/8dff9c39-ce47-e1be-82bb-3973cef95bd4.htm" />
+        <HelpTOCNode Title="DeviceWiFiAddress Property " Url="html/7c14fb65-a224-dfff-3d86-cdea151ae524.htm" />
+        <HelpTOCNode Title="IInternationalMobileSubscriberIdentity Property " Url="html/93460c9e-7fa1-8a71-7fae-66c877797e4a.htm" />
+        <HelpTOCNode Title="InternationalMobileEquipmentIdentity Property " Url="html/3a0852a4-1016-26a8-feb8-7f757e1762c3.htm" />
+        <HelpTOCNode Title="IsConnected Property " Url="html/2ffaa451-3e98-b6e6-8a75-5c4728f7838c.htm" />
+        <HelpTOCNode Title="IsJailbreak Property " Url="html/90462d0f-8024-0399-08c0-ab26c951f3cf.htm" />
+        <HelpTOCNode Title="IsWiFiEnabled Property " Url="html/679689fc-c143-135e-8709-7752cd797a4f.htm" />
+        <HelpTOCNode Title="ProductName Property " Url="html/72eb4680-c6a5-b461-6e34-2f7e2217f654.htm" />
+        <HelpTOCNode Title="ProductVersion Property " Url="html/a2079d63-b69a-67d7-1ba3-2e01b455e29e.htm" />
+        <HelpTOCNode Title="PropertyDomains Property " Url="html/f29baf7a-ef51-9ced-0b87-fe817a1db0bb.htm" />
+        <HelpTOCNode Title="UniqueChipID Property " Url="html/848e6798-8cbe-0e3f-a685-539ed3a3f5fe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b3f8346a-40ee-4ef2-b8cf-aa05e1184407" Title="iTMDiPhone Methods" Url="html/f41c1517-0c5a-d597-0de5-ca51bdf7e886.htm">
+        <HelpTOCNode Title="ConnectViaHouseArrest Method " Url="html/d4aba511-226c-af39-d3cf-319a082db419.htm" />
+        <HelpTOCNode Title="Copy Method " Url="html/27b14e28-54f1-8e22-f883-83c1d0ad4e3f.htm" />
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/2d73f3b2-c0ca-cbfe-4879-8acb776b51fc.htm" />
+        <HelpTOCNode Title="Deactivate Method " Url="html/14c0835e-cd3d-4ed8-3800-8dfe52891707.htm" />
+        <HelpTOCNode Id="b831058c-ce3e-492d-b182-40d53f70ca61" Title="DeleteDirectory Method " Url="html/7e36774a-4854-decf-1ef3-c24da657a8ce.htm">
+          <HelpTOCNode Title="DeleteDirectory Method (String)" Url="html/a138375f-9ece-9de5-15f2-ed47cfe1f943.htm" />
+          <HelpTOCNode Title="DeleteDirectory Method (String, Boolean)" Url="html/69b0d19b-ef35-3c0f-9834-9429a9a2527e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DeleteFile Method " Url="html/260c4e6f-a102-42b4-bf5b-9ef6280cb669.htm" />
+        <HelpTOCNode Title="DeleteFromDevice Method " Url="html/bbb195d1-9302-d37b-b95d-d4507d3da3b6.htm" />
+        <HelpTOCNode Title="DisableWiFiConnection Method " Url="html/2b9fe4ba-f747-8535-bbf9-3c4856017c2f.htm" />
+        <HelpTOCNode Title="EnableWiFiConnection Method " Url="html/d952c90b-9b13-067a-2a4e-8c558598811e.htm" />
+        <HelpTOCNode Title="EnterDFU Method " Url="html/da2dd2a4-7d8b-3b48-1530-b614b6ee0d5c.htm" />
+        <HelpTOCNode Title="EnterRecovery Method " Url="html/f05b3d6d-b5fe-632f-2527-dad45c0c1cb1.htm" />
+        <HelpTOCNode Title="Exists Method " Url="html/ae2871b4-e76c-55cc-3be0-a92efcc762f8.htm" />
+        <HelpTOCNode Title="ExitRecovery Method " Url="html/a1eac45e-0617-36a6-f663-9974a3636fd8.htm" />
+        <HelpTOCNode Title="FileSize Method " Url="html/be9e407f-c334-9256-6c32-12f9a9bb5e34.htm" />
+        <HelpTOCNode Title="FileType Method " Url="html/62397093-c797-9de8-22ce-f0c14ba6f0fd.htm" />
+        <HelpTOCNode Title="GetApplicationList Method " Url="html/4d21dfc1-fb14-f07d-f570-1bae142c56e8.htm" />
+        <HelpTOCNode Title="GetCurrentDirectory Method " Url="html/8979a1c9-c799-bc5f-a88f-3b82e2cab936.htm" />
+        <HelpTOCNode Title="GetDirectories Method " Url="html/431bee77-6289-5f41-ce5c-37f148457f6b.htm" />
+        <HelpTOCNode Title="GetDirectoryRoot Method " Url="html/5c3a5b96-e7b7-13a5-1a00-f0231e7809f5.htm" />
+        <HelpTOCNode Id="3da24ea2-ff35-4aca-9559-5ea8f21f3b32" Title="GetFileInfo Method " Url="html/eb7ec317-f57e-8e8b-b362-d954e1ded24c.htm">
+          <HelpTOCNode Title="GetFileInfo Method (String)" Url="html/4a77e0ed-d23d-032e-fe99-466662ab9842.htm" />
+          <HelpTOCNode Title="GetFileInfo Method (String, UInt64, Boolean)" Url="html/2e4bb4d9-4782-8b66-36f9-7ef1432e63b1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFileInfoDetails Method " Url="html/f71d8969-0ed9-123c-b712-2e882d99e2f5.htm" />
+        <HelpTOCNode Title="GetFiles Method " Url="html/8937afef-0e24-511d-33dd-a24e1d8d3f9e.htm" />
+        <HelpTOCNode Title="InitLibiMobileDevice Method " Url="html/ce07c709-b551-53d2-358f-14f7a27ff0c7.htm" />
+        <HelpTOCNode Title="IsDirectory Method " Url="html/9aee49f2-93f8-54e1-77e2-4a46bf17b68f.htm" />
+        <HelpTOCNode Title="IsFile Method " Url="html/90892872-3a74-20ea-3ee3-2336314e7802.htm" />
+        <HelpTOCNode Title="IsLink Method " Url="html/2ac0b08f-3ff9-6c4b-96a3-01f367b1a571.htm" />
+        <HelpTOCNode Title="OnConnect Method " Url="html/8e15e4a3-598c-ee0d-a8db-729c778f6c98.htm" />
+        <HelpTOCNode Title="OnDfuConnect Method " Url="html/98e53a69-8a6f-02db-1231-09e84c0b7e64.htm" />
+        <HelpTOCNode Title="OnDfuDisconnect Method " Url="html/1fd1bf94-f86b-d036-e18a-11d9a3a21fba.htm" />
+        <HelpTOCNode Title="OnDisconnect Method " Url="html/ae00c748-ea7a-c080-e9a3-2162155732a4.htm" />
+        <HelpTOCNode Title="OnRecoveryModeEnter Method " Url="html/ab22d26d-b74a-e056-fc96-67a08da73493.htm" />
+        <HelpTOCNode Title="OnRecoveryModeLeave Method " Url="html/1a0d805f-6c4f-8824-c518-d29865095db6.htm" />
+        <HelpTOCNode Title="Reboot Method " Url="html/d86783fa-706e-2c73-be9a-510b49c1afdd.htm" />
+        <HelpTOCNode Title="RebootOnDisconnect Method " Url="html/aa55ece2-e876-797c-83b6-368f719ba558.htm" />
+        <HelpTOCNode Title="ReConnect Method " Url="html/cc0bdb4c-5fba-4e3d-08ea-35d171b63dc7.htm" />
+        <HelpTOCNode Title="Rename Method " Url="html/770305c5-3d18-61a8-b576-71f6414a0d8a.htm" />
+        <HelpTOCNode Title="RequestProperties Method " Url="html/c8933cfb-5f50-1f59-9845-34d5f5856c56.htm" />
+        <HelpTOCNode Id="3fedda4a-1032-4465-ae4a-7eea4faced96" Title="RequestProperty Method " Url="html/61a71c4a-baeb-adbd-f701-53c646df1433.htm">
+          <HelpTOCNode Title="RequestProperty Method (String)" Url="html/417ee796-ad6e-0c95-1fd6-837d9cbf72ab.htm" />
+          <HelpTOCNode Title="RequestProperty Method (String, String)" Url="html/c1ebef04-6590-d93c-24ca-8db37861362e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="sendCommandToDevice Method " Url="html/8784abfa-d433-a34d-3cdd-abcb7299f6a9.htm" />
+        <HelpTOCNode Title="sendFileToDevice Method " Url="html/abb8f877-c946-958f-74fd-82ff13e09a86.htm" />
+        <HelpTOCNode Title="SetCurrentDirectory Method " Url="html/d06f6ff5-3755-0458-35dc-67e4f9518a64.htm" />
+        <HelpTOCNode Title="SetProperty Method " Url="html/5591045c-5068-8619-9ee1-ce3256884503.htm" />
+        <HelpTOCNode Title="Shutdown Method " Url="html/77e36370-5ebe-d6d7-69e6-fe6368ea2554.htm" />
+        <HelpTOCNode Title="ShutdownOnDisconnect Method " Url="html/71431a43-f5bf-260a-df53-5c40ff2e3c04.htm" />
+        <HelpTOCNode Title="Sleep Method " Url="html/085ad928-8373-f916-6cd1-ac9dd3ab2275.htm" />
+        <HelpTOCNode Title="UninstallApplication Method " Url="html/d94f9d8d-84ac-87b8-2b11-b135f588caae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="31f0e4b1-5f32-4b3d-98a1-90aacc480c4e" Title="iTMDiPhone Events" Url="html/353b1923-eede-7d10-4166-2980c9377980.htm">
+        <HelpTOCNode Title="Connect Event" Url="html/62780580-3331-a48a-67b4-d54aee6b9924.htm" />
+        <HelpTOCNode Title="DfuConnect Event" Url="html/5fbc2813-d474-fe17-ef61-32be1a318dfc.htm" />
+        <HelpTOCNode Title="DfuDisconnect Event" Url="html/1ca17e80-9d04-296f-f6b0-fee58647d55b.htm" />
+        <HelpTOCNode Title="Disconnect Event" Url="html/1c221d2c-4ab9-e306-6727-b228671dd241.htm" />
+        <HelpTOCNode Title="RecoveryModeEnter Event" Url="html/6d7caa7a-8a64-c6f2-127f-26bbe8e91179.htm" />
+        <HelpTOCNode Title="RecoveryModeLeave Event" Url="html/aca428ef-6c42-7c99-ba6a-02abea96021d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="iTMDiPhone.FileTypes Enumeration" Url="html/328f58e6-0ce3-0cb6-4f17-41bef6fbe270.htm" />
+    <HelpTOCNode Id="3ff79ac8-1164-4b0f-9c40-033e987bc48a" Title="iTMDiPhoneLL Class" Url="html/67dee98f-f52c-a0c1-d470-dcc9252c599c.htm">
+      <HelpTOCNode Title="iTMDiPhoneLL Constructor " Url="html/4fc41973-dfae-d3ea-40a8-aa00285946ff.htm" />
+      <HelpTOCNode Id="22287341-801e-4279-9a42-0bb26cf0d19c" Title="iTMDiPhoneLL Properties" Url="html/61e60daa-216d-3c87-cade-95e0642687c1.htm">
+        <HelpTOCNode Title="_DeviceHandle Property " Url="html/db84e087-b9e1-3e8d-d383-7fe013af1d18.htm" />
+        <HelpTOCNode Title="ActivationState Property " Url="html/d9071da8-18bb-d955-8f26-9ca270eeb739.htm" />
+        <HelpTOCNode Title="AFCHandle Property " Url="html/351a6789-11d8-8232-ca8f-df3fda6cede0.htm" />
+        <HelpTOCNode Title="CurrentDirectory Property " Url="html/78796ea0-7c2c-db92-9722-1b28d91a3be9.htm" />
+        <HelpTOCNode Title="Device Property " Url="html/28183f54-fc94-0be3-a52b-209707f1c0f4.htm" />
+        <HelpTOCNode Title="DeviceBasebandBootloaderVersion Property " Url="html/90370770-2dfb-6a63-5272-42706401e0fd.htm" />
+        <HelpTOCNode Title="DeviceBasebandVersion Property " Url="html/d8e97683-6a7f-6d02-3ca7-60b8f68ac824.htm" />
+        <HelpTOCNode Title="DeviceBuildVersion Property " Url="html/719d4af3-dd99-e127-9164-565370f612d3.htm" />
+        <HelpTOCNode Title="DeviceFirmwareVersion Property " Url="html/b6186225-5d17-b3d0-9d1d-eeffa857b60e.htm" />
+        <HelpTOCNode Title="DeviceId Property " Url="html/b884784b-27e0-b138-6315-ca15eb667dbd.htm" />
+        <HelpTOCNode Title="DeviceIntegratedCircuitCardIdentity Property " Url="html/740c5340-6b2b-adcb-7b24-e5df745c3394.htm" />
+        <HelpTOCNode Title="DeviceiTunesHasConnected Property " Url="html/e63206b3-8c3b-a3b8-60f7-5b8ed9efbc4b.htm" />
+        <HelpTOCNode Title="DeviceModelNumber Property " Url="html/65bf9ffd-e51a-579b-d62c-f3c506c34c2f.htm" />
+        <HelpTOCNode Title="DeviceName Property " Url="html/a3a6ce8d-d96f-ee57-accc-15ec4f0e6506.htm" />
+        <HelpTOCNode Title="DevicePhoneNumber Property " Url="html/97e9bf9d-7fb0-c02f-9efa-2061b6a7563f.htm" />
+        <HelpTOCNode Title="DeviceProductType Property " Url="html/20890781-a2fb-b85f-6490-85253d7ddaa0.htm" />
+        <HelpTOCNode Title="DeviceSerial Property " Url="html/16585943-a089-c3b4-9201-6252db02134e.htm" />
+        <HelpTOCNode Title="DeviceSIMStatus Property " Url="html/47b24f69-713a-44a6-b775-6315cd8a3753.htm" />
+        <HelpTOCNode Title="DeviceType Property " Url="html/2fea9498-b3bc-200f-1984-4564b6c8dafb.htm" />
+        <HelpTOCNode Title="DeviceVersion Property " Url="html/2b108154-3aef-f225-45cb-4e3531201671.htm" />
+        <HelpTOCNode Title="DeviceWiFiAddress Property " Url="html/ea264c66-9c5a-3e89-a5f1-ad2f2516a82a.htm" />
+        <HelpTOCNode Title="IInternationalMobileSubscriberIdentity Property " Url="html/e174195f-2d0a-c57a-f943-81a8227430c0.htm" />
+        <HelpTOCNode Title="InternationalMobileEquipmentIdentity Property " Url="html/247d7450-ac2e-7e37-362a-04fca0d3f88a.htm" />
+        <HelpTOCNode Title="IsConnected Property " Url="html/72e34e8d-77bf-be22-ecf6-e6bf27b8e652.htm" />
+        <HelpTOCNode Title="IsHostAttached Property " Url="html/a54ae3e0-9fcf-40f7-9ef8-e728ef943fa8.htm" />
+        <HelpTOCNode Title="IsJailbreak Property " Url="html/f840e20b-4df2-11e2-a9fa-b524a4455c3f.htm" />
+        <HelpTOCNode Title="ProductName Property " Url="html/b73afa0e-be96-61b9-e467-ec91fed7ec5f.htm" />
+        <HelpTOCNode Title="ProductVersion Property " Url="html/33773b44-62f5-806a-c819-a03d7770bca2.htm" />
+        <HelpTOCNode Title="PropertyDomains Property " Url="html/67b305e3-19f0-655d-b8ac-43b0efae82eb.htm" />
+        <HelpTOCNode Title="UniqueChipID Property " Url="html/02bf2984-aa50-19d4-8c3f-2aa895328e40.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="86deab77-2ec1-4ff0-8fad-e66c5068a3a4" Title="iTMDiPhoneLL Methods" Url="html/6f1cd51e-5121-2830-1843-ee6c568398ae.htm">
+        <HelpTOCNode Title="ConnectViaHouseArrest Method " Url="html/0beff5a0-e57b-7334-db96-61c05b792f90.htm" />
+        <HelpTOCNode Title="Copy Method " Url="html/732a2fa3-1a8e-a31d-e19d-eb3a677e5984.htm" />
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/95fb40c3-3b4c-20d8-da0b-6689c099b0f6.htm" />
+        <HelpTOCNode Title="Deactivate Method " Url="html/de336218-19a5-653e-4fa5-e1e3986051dd.htm" />
+        <HelpTOCNode Id="4f2ad7f7-4a48-4fb3-b7e6-103226765355" Title="DeleteDirectory Method " Url="html/0fe26a41-244d-2a32-3bc0-249311321075.htm">
+          <HelpTOCNode Title="DeleteDirectory Method (String)" Url="html/3d7fa844-440e-9b9e-2e4a-499241a2683a.htm" />
+          <HelpTOCNode Title="DeleteDirectory Method (String, Boolean)" Url="html/5620d930-6bda-eded-eb84-bc75751db819.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DeleteFile Method " Url="html/08588c9a-4c8a-1ac4-e2d0-4e256ba7d970.htm" />
+        <HelpTOCNode Title="DeleteFromDevice Method " Url="html/6ddc3a1a-058c-3e13-0b7d-b60b150c8d83.htm" />
+        <HelpTOCNode Title="DisableWiFiConnection Method " Url="html/04f3eea8-0089-de3c-6a5d-e4f9e63314ea.htm" />
+        <HelpTOCNode Title="EnableWiFiConnection Method " Url="html/a6b31925-ea2e-c169-0b59-885b1a94605d.htm" />
+        <HelpTOCNode Title="EnterDFU Method " Url="html/14e2566b-7888-45b0-6a39-f7e19675de56.htm" />
+        <HelpTOCNode Title="EnterRecovery Method " Url="html/1ce12563-eff3-a17d-1fe3-67841877a804.htm" />
+        <HelpTOCNode Title="Exists Method " Url="html/5dc008d9-3f5b-bf0d-30c8-fc029656cf1f.htm" />
+        <HelpTOCNode Title="ExitRecovery Method " Url="html/2fefaadb-491f-fe7c-c8c0-eb48142ffe86.htm" />
+        <HelpTOCNode Title="FileSize Method " Url="html/8184ac49-f118-da9f-0610-ac0c2d9597f5.htm" />
+        <HelpTOCNode Title="FileType Method " Url="html/c05053a9-721c-35f2-1f51-b3a49588a37e.htm" />
+        <HelpTOCNode Title="GetApplicationList Method " Url="html/1029f77f-f9e2-6dc8-c36b-d77b3ca21b7a.htm" />
+        <HelpTOCNode Title="GetCurrentDirectory Method " Url="html/99453b2f-16fb-ed82-d130-1daeaddec222.htm" />
+        <HelpTOCNode Title="GetDirectories Method " Url="html/d939c502-9236-cd6d-cd23-231b4ebdc8c1.htm" />
+        <HelpTOCNode Title="GetDirectoryRoot Method " Url="html/fb8c2329-249b-6d55-dbd2-eb76af73cadf.htm" />
+        <HelpTOCNode Id="5043bfa9-f720-41ce-8942-2066f2c7b8aa" Title="GetFileInfo Method " Url="html/35bbfc06-6b51-9239-0a81-817d8a09bd8f.htm">
+          <HelpTOCNode Title="GetFileInfo Method (String)" Url="html/8e8efd75-3381-e586-60d8-f3d47d740624.htm" />
+          <HelpTOCNode Title="GetFileInfo Method (String, UInt64, Boolean)" Url="html/89f18f98-36ef-eacb-a0ad-56c82543bf1f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFileInfoDetails Method " Url="html/6a9652f3-65b8-64dc-b33d-7cf0feb032b4.htm" />
+        <HelpTOCNode Title="GetFiles Method " Url="html/a1081ec7-37e5-da0a-2a3e-45534ef68534.htm" />
+        <HelpTOCNode Title="InitLibiMobileDevice Method " Url="html/23887485-3792-79db-4d14-2a846c49a020.htm" />
+        <HelpTOCNode Title="IsDirectory Method " Url="html/82263866-37a0-4eff-4877-f5d85fc56a08.htm" />
+        <HelpTOCNode Title="IsFile Method " Url="html/8136ae84-e87d-1a4b-c907-505fa1e45887.htm" />
+        <HelpTOCNode Title="IsLink Method " Url="html/d1a6ca99-b80a-d60f-8d7b-5869713b7063.htm" />
+        <HelpTOCNode Title="OnConnect Method " Url="html/d64115a0-8616-16b0-27c9-523f573918fa.htm" />
+        <HelpTOCNode Title="OnDfuConnect Method " Url="html/9266c564-6bd3-e9b9-c068-2c48082087d2.htm" />
+        <HelpTOCNode Title="OnDfuDisconnect Method " Url="html/7427f9f3-78a0-7e5e-ace3-65c9bc6cee4d.htm" />
+        <HelpTOCNode Title="OnDisconnect Method " Url="html/18937037-b1cc-871c-05d3-64dfe861f63d.htm" />
+        <HelpTOCNode Title="OnHostAttached Method " Url="html/614e9161-8a43-a35b-ac04-f916aeb9056a.htm" />
+        <HelpTOCNode Title="OnHostDetached Method " Url="html/8f22282b-dcd5-d8d8-64b2-8ec6fc3393e9.htm" />
+        <HelpTOCNode Title="OnRecoveryModeEnter Method " Url="html/80302b49-94a6-0f19-51b7-0c396f02db27.htm" />
+        <HelpTOCNode Title="OnRecoveryModeLeave Method " Url="html/fe7cc7f5-8b7a-7aea-3e20-8efbad1d16ee.htm" />
+        <HelpTOCNode Title="Reboot Method " Url="html/44e87eb6-e624-5b8b-c851-8762eba3f5bb.htm" />
+        <HelpTOCNode Title="RebootOnDisconnect Method " Url="html/5370dc1a-44d5-94eb-644f-1e607e9e879e.htm" />
+        <HelpTOCNode Title="ReConnect Method " Url="html/d4769ebc-8159-14d1-fbab-8b3462fc7bd4.htm" />
+        <HelpTOCNode Title="Rename Method " Url="html/0da713ca-7859-d360-74bc-b82d9d11bd9a.htm" />
+        <HelpTOCNode Title="RequestProperties Method " Url="html/b05c9993-214b-4edc-ea65-aa922701ef96.htm" />
+        <HelpTOCNode Id="f5f3e49f-3002-4826-9e2a-5df09b706197" Title="RequestProperty Method " Url="html/072ebe29-197d-20c6-0645-9b2ad49492a6.htm">
+          <HelpTOCNode Title="RequestProperty Method (String)" Url="html/e650894f-0dea-746f-d7a9-fe6daf39311c.htm" />
+          <HelpTOCNode Title="RequestProperty Method (String, String)" Url="html/649714f7-f859-19f7-dc4d-9a2fbf5fb095.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="sendCommandToDevice Method " Url="html/2253f3b7-0e45-6830-8557-29e313508add.htm" />
+        <HelpTOCNode Title="sendFileToDevice Method " Url="html/d7356629-0b9f-2ba7-4d45-114ba6b9684d.htm" />
+        <HelpTOCNode Title="SetCurrentDirectory Method " Url="html/56d42c1b-35b5-d9a5-69ad-7003f3c99f71.htm" />
+        <HelpTOCNode Title="SetProperty Method " Url="html/68bc5a65-ea0e-04d5-ea54-9abbded8cb1d.htm" />
+        <HelpTOCNode Title="Shutdown Method " Url="html/8dbf381a-0266-9556-47d7-ee2541ec62f4.htm" />
+        <HelpTOCNode Title="ShutdownOnDisconnect Method " Url="html/bcb14d3d-5760-1f91-bb6e-11e2a5fd138f.htm" />
+        <HelpTOCNode Title="Sleep Method " Url="html/e0fd7e06-5920-2733-bddc-ad139c25c485.htm" />
+        <HelpTOCNode Title="UninstallApplication Method " Url="html/7e2cc5b8-3855-d40d-33a2-191171ce61d3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c5ce2745-c14d-4288-8427-408c4f31c934" Title="iTMDiPhoneLL Events" Url="html/fbd37244-59d8-b900-3b47-1f892374c35f.htm">
+        <HelpTOCNode Title="Connect Event" Url="html/4d08d68a-f490-27c2-1e7c-a6d7c0f31037.htm" />
+        <HelpTOCNode Title="DfuConnect Event" Url="html/60a1a581-d90f-9388-333c-7452919f251a.htm" />
+        <HelpTOCNode Title="DfuDisconnect Event" Url="html/252dd4f3-8b20-6d4e-ebe6-63a5dd142085.htm" />
+        <HelpTOCNode Title="Disconnect Event" Url="html/4984e490-d5be-ec3d-c7dc-8cb91f237799.htm" />
+        <HelpTOCNode Title="HostAttached Event" Url="html/ee41e47a-b07f-13bd-80cb-9f0a3259dfec.htm" />
+        <HelpTOCNode Title="HostDetached Event" Url="html/ac5a5b89-2d87-f7e4-a79b-08906282d1d2.htm" />
+        <HelpTOCNode Title="RecoveryModeEnter Event" Url="html/269dadf3-c5fd-7463-1201-fb39a4cb4c81.htm" />
+        <HelpTOCNode Title="RecoveryModeLeave Event" Url="html/aacaf5a4-cbfa-9b64-6eca-68bd4acf0a53.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="iTMDiPhoneLL.FileTypes Enumeration" Url="html/95aa870e-e5d6-4e9a-5e3c-b8bca06190dc.htm" />
+    <HelpTOCNode Id="26c97e2b-351a-48b2-96c3-52b058eeed36" Title="llidevice Class" Url="html/72d8caaf-eca2-6603-a016-968cd6d58081.htm">
+      <HelpTOCNode Title="llidevice Constructor " Url="html/dfda2a8b-2d15-b608-adaf-5e44435bbf95.htm" />
+      <HelpTOCNode Title="llidevice Methods" Url="html/79e8a597-09cb-3def-9562-63ba5a66daeb.htm" />
+      <HelpTOCNode Id="db541362-5704-44dd-b85d-f997c73ce2b9" Title="llidevice Fields" Url="html/08c09f33-018a-d57f-c99a-ed5f5c045265.htm">
+        <HelpTOCNode Title="Udid Field" Url="html/cb132bda-776a-fe5e-4e91-38bb641b38cb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="NotificationMessage Enumeration" Url="html/0dd71248-3566-70d4-5f14-1fed92f8850b.htm" />
+    <HelpTOCNode Id="13e1257c-7ff2-411f-9f99-50b5a71e1203" Title="USBMultiplexArgs Class" Url="html/228d470b-2a5b-94eb-a8d7-ca951386f673.htm">
+      <HelpTOCNode Id="b173da77-8d59-47f9-9400-d407bdd65645" Title="USBMultiplexArgs Properties" Url="html/35867fbd-34cf-d56e-38e3-18f634bcf1e8.htm">
+        <HelpTOCNode Title="Device Property " Url="html/aec979f7-5d50-b5dd-b3e5-b8314d904f8b.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/64e8dc6a-595b-74c8-4f25-42bf4a4787ee.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="USBMultiplexArgs Methods" Url="html/c16cef6a-5b4f-926d-6d4e-d274c1ce43b7.htm" />
+      <HelpTOCNode Id="02aadabc-e357-44a0-9f94-3606364aa772" Title="USBMultiplexArgs Fields" Url="html/3c27a8fa-c9d2-5119-507f-2493f8eaac29.htm">
+        <HelpTOCNode Title="IsLocked Field" Url="html/0e759653-2167-e429-9d7d-d89b645d666f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a0ff1593-b1c6-4aa8-9967-34fe3348f233" Title="MK.MobileDevice.TAI" Url="html/bd14bb12-c1f1-0364-3fa5-c3903baac318.htm">
+    <HelpTOCNode Id="49a67413-c8c7-498a-9232-8133fcceca27" Title="AMDevice Structure" Url="html/5f9ec395-ac99-4993-3307-2c36f5c8f4a4.htm">
+      <HelpTOCNode Title="AMDevice Methods" Url="html/6eb7ae66-f8f3-7000-cb52-f9e6f64aa50d.htm" />
+      <HelpTOCNode Id="92d74951-0820-4a78-8be9-a2a60a1d1a79" Title="AMDevice Fields" Url="html/a3de52e3-8e7b-c4ef-eb6b-8ce516648e71.htm">
+        <HelpTOCNode Title="serial Field" Url="html/5cad051d-2de6-19d5-e7d3-4cf1a592451d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a0c42f5d-8170-4ed7-b6a8-997b9bfc3127" Title="ConnectEventArgs Class" Url="html/2fbd7d14-5ad8-91d8-6bdf-01048cf3559d.htm">
+      <HelpTOCNode Id="e4543164-b0f7-442e-aa26-360706dc49a0" Title="ConnectEventArgs Properties" Url="html/364b4a8b-ac9c-79ad-ce67-40abeeae63c4.htm">
+        <HelpTOCNode Title="Device Property " Url="html/0f714ba8-977c-aa65-2119-3ed999269853.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/3925f0a4-5497-c33a-caab-ae2bb9c97e46.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ConnectEventArgs Methods" Url="html/2c055933-40bf-a1a2-8f3e-e7f00505c059.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ConnectEventHandler Delegate" Url="html/58c5d700-2bb0-1b38-a077-f13bf94571e5.htm" />
+    <HelpTOCNode Id="e7e36abf-99a4-47a0-8f16-5cf553c0dba3" Title="DeviceNotificationEventArgs Class" Url="html/e97659b7-eeba-97bc-32d9-ca7832c0b061.htm">
+      <HelpTOCNode Title="DeviceNotificationEventArgs Methods" Url="html/6c64cd5f-8d6d-f1e5-b90c-ceb334b61ae4.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="DeviceNotificationEventHandler Delegate" Url="html/8b15afe0-f9fc-4696-6d68-9f9119d254bd.htm" />
+    <HelpTOCNode Id="015f22a0-7f40-43d8-8061-11be134192f0" Title="iPhoneDFUDevice Class" Url="html/881f905b-e005-0e03-2fce-ea53664d5c8b.htm">
+      <HelpTOCNode Title="iPhoneDFUDevice Constructor " Url="html/2e7631fc-bcf9-6ecf-8779-df2c72dae389.htm" />
+      <HelpTOCNode Id="de6049b1-b341-41d8-bf1b-4c7a7e7ac168" Title="iPhoneDFUDevice Properties" Url="html/8c157724-9e18-c599-2d1f-097bce2e5626.htm">
+        <HelpTOCNode Title="DFUDevice Property " Url="html/5c7df139-f15d-d7f7-e8d6-7ddfdd5cacf4.htm" />
+        <HelpTOCNode Title="LocationID Property " Url="html/4330273c-c7bd-9742-5252-6ed904991716.htm" />
+        <HelpTOCNode Title="ProductID Property " Url="html/f06e7b55-e06e-09e5-60bd-545d62ec4b06.htm" />
+        <HelpTOCNode Title="ProductType Property " Url="html/ae43fe96-360c-f0dc-dd9e-d20ad822a486.htm" />
+        <HelpTOCNode Title="TypeID Property " Url="html/4a94e66e-8724-3d24-977e-a82fbc20a35e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="iPhoneDFUDevice Methods" Url="html/a654f24d-91e2-cc1a-ccce-46be974b15bd.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e6f80aa6-3582-4aa9-8747-95a57c2c9220" Title="iPhoneFile Class" Url="html/00d0f4dc-153f-0b96-4a15-8f28874577f8.htm">
+      <HelpTOCNode Id="5add37a1-8470-4d4a-91a8-6ca872718526" Title="iPhoneFile Properties" Url="html/d3eb2f6b-330d-ed43-a32f-fa15c27c17f7.htm">
+        <HelpTOCNode Title="CanRead Property " Url="html/a126fb76-4375-1612-3cff-dd740eb3f3e5.htm" />
+        <HelpTOCNode Title="CanSeek Property " Url="html/6f6b4895-79cd-4fc9-2824-c5afacc3418f.htm" />
+        <HelpTOCNode Title="CanTimeout Property " Url="html/92433259-729c-0e86-2e0b-61a11310e45e.htm" />
+        <HelpTOCNode Title="CanWrite Property " Url="html/ffaadb2f-6e08-7b99-9149-bcb2b7a21eba.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/acdc7bf0-8085-3373-768a-10aac6444fe9.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/00b180b2-fb25-a2c3-9c06-610b5acc149f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8ff89451-72d9-48fe-951b-ee5ef2a8a872" Title="iPhoneFile Methods" Url="html/a74f3cc0-33b4-26e0-1a7c-2544d826eb75.htm">
+        <HelpTOCNode Id="e7c28f5f-ca16-4318-84f7-2817a5505b27" Title="Dispose Method " Url="html/08fb2ba4-f12e-d65d-ea88-7aad63e3f4b8.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/3f056a62-3a6f-1047-c7d0-f34127eaa9b3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Flush Method " Url="html/d9d2d7f1-e107-bf3c-31cc-7164fd1ef002.htm" />
+        <HelpTOCNode Title="Open Method " Url="html/5e146035-e4eb-5fd7-acdc-3c9828627eef.htm" />
+        <HelpTOCNode Title="OpenRead Method " Url="html/92a95769-365b-3cab-6ff2-e737b7b869b7.htm" />
+        <HelpTOCNode Title="OpenWrite Method " Url="html/c91a944c-85a8-2e7b-c7d5-9415fca7ce79.htm" />
+        <HelpTOCNode Title="Read Method " Url="html/2fc90f07-f6c6-23db-7d49-ec0dda5015d5.htm" />
+        <HelpTOCNode Title="Seek Method " Url="html/ab4184a8-f134-20ed-72b9-b4e7cb700ecf.htm" />
+        <HelpTOCNode Title="SetLength Method " Url="html/df5b25d8-4be1-9f7f-74f9-74224412b3ea.htm" />
+        <HelpTOCNode Title="Write Method " Url="html/6e5ba2f1-caaf-d341-cdab-12394c16d2ed.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7c3d4209-e67d-4b4b-898a-fca373facaf4" Title="iPhoneRecoveryDevice Class" Url="html/178075b5-9bc1-e47f-8a68-e5483c869093.htm">
+      <HelpTOCNode Title="iPhoneRecoveryDevice Constructor " Url="html/2e5529fe-8add-a9d4-dc84-63acf9d7f9f0.htm" />
+      <HelpTOCNode Id="a62591e6-ed22-4b9b-8cac-7adbc94746a2" Title="iPhoneRecoveryDevice Properties" Url="html/fb3efde6-095c-5560-bcdc-e1643cc53e6e.htm">
+        <HelpTOCNode Title="IMEI Property " Url="html/1919c182-e704-6d21-0012-68ee8457677d.htm" />
+        <HelpTOCNode Title="LocationID Property " Url="html/85136be5-5c06-1533-efc1-f444825232a6.htm" />
+        <HelpTOCNode Title="ProductID Property " Url="html/6bb9cd14-61aa-2835-b644-164722b6198d.htm" />
+        <HelpTOCNode Title="ProductType Property " Url="html/7b914fd7-202b-df31-5c51-1c4b5b884095.htm" />
+        <HelpTOCNode Title="RecoveryDevice Property " Url="html/f5f40646-eed0-cfe3-3880-b99507ebc820.htm" />
+        <HelpTOCNode Title="SerialNumber Property " Url="html/1e819923-9ee5-c5a2-8913-4b7cbbb00f4c.htm" />
+        <HelpTOCNode Title="TypeID Property " Url="html/baf4e90f-6eb9-f0ab-3fd6-8a8b5d892723.htm" />
+        <HelpTOCNode Title="Version Property " Url="html/c9cf895f-fb38-0f8d-8563-2cb15830ed52.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c0e45792-eba4-4beb-924f-07ed307fc0f2" Title="iPhoneRecoveryDevice Methods" Url="html/991527d1-4c0c-2f5f-e293-08ee6dc42d60.htm">
+        <HelpTOCNode Title="exitRecovery Method " Url="html/08d2a26a-ac8f-78ad-6c11-c4b9a226d2f0.htm" />
+        <HelpTOCNode Title="reboot Method " Url="html/2dd788e9-065f-8301-19a9-a62e401acc5a.htm" />
+        <HelpTOCNode Title="setAutoBoot Method " Url="html/9a8b1742-ae63-42d6-f977-a2b788d11fab.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="NotificationMessage Enumeration" Url="html/a5a246c4-1f4c-aef5-6bd7-bf7e897bc689.htm" />
+    <HelpTOCNode Id="99eb57f3-e398-403e-b2f6-8b8ab05cb401" Title="TAIiPhone Class" Url="html/91c75343-2c87-c77d-e084-17edb7e32558.htm">
+      <HelpTOCNode Id="2bc920d3-090d-4a74-b9db-c2b236acb23c" Title="TAIiPhone Constructor " Url="html/db91c02d-85c9-5352-e697-7e3cde341aee.htm">
+        <HelpTOCNode Title="TAIiPhone Constructor " Url="html/cdcc3e65-fb59-11fe-8a4e-a256cb523173.htm" />
+        <HelpTOCNode Title="TAIiPhone Constructor (ConnectEventHandler, ConnectEventHandler)" Url="html/ab857688-30d2-b5df-ace1-073c5cc1a1c6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="769befb2-a040-47ce-9735-01a1a9a992bc" Title="TAIiPhone Properties" Url="html/4f4168e5-cd3d-b52e-d0f1-e9d955b317ff.htm">
+        <HelpTOCNode Title="AFCHandle Property " Url="html/49ea1d63-7ef8-08b7-b473-5e21f022d58a.htm" />
+        <HelpTOCNode Title="CurrentDirectory Property " Url="html/849a0333-0526-1cb3-60ba-c3045d0be91c.htm" />
+        <HelpTOCNode Title="Device Property " Url="html/a20209f0-9118-37b3-084a-c4b9d5b2af2e.htm" />
+        <HelpTOCNode Title="GetActivationState Property " Url="html/50dae2f6-1508-bc51-57e9-f971fe6c2bc8.htm" />
+        <HelpTOCNode Title="GetBasebandBootloaderVersion Property " Url="html/f1918005-be11-ec8f-4546-0a868a6142fb.htm" />
+        <HelpTOCNode Title="GetBasebandSerialNumber Property " Url="html/f503287a-55ba-b11b-d46a-0fd45260e8b1.htm" />
+        <HelpTOCNode Title="GetBasebandVersion Property " Url="html/ec14f370-e6e5-1a1c-bff5-ee04d4d91da1.htm" />
+        <HelpTOCNode Title="GetBluetoothAddress Property " Url="html/e27d0216-1dbb-58fc-5325-88d5b966445f.htm" />
+        <HelpTOCNode Title="GetBuildVersion Property " Url="html/fa433f9f-79c4-8b64-8553-00cba3a1f1f4.htm" />
+        <HelpTOCNode Title="GetCPUArchitecture Property " Url="html/8ad43da0-e8ba-0664-dad5-7cae0cd08c05.htm" />
+        <HelpTOCNode Title="GetDeviceCertificate Property " Url="html/aafc8194-10f8-d947-c4f6-c302adfaa5ac.htm" />
+        <HelpTOCNode Title="GetDeviceClass Property " Url="html/46397ac7-5be2-4795-fb38-3790b7b295fc.htm" />
+        <HelpTOCNode Title="GetDeviceColor Property " Url="html/404acc14-8ef6-77d3-2928-200c2ac01ab3.htm" />
+        <HelpTOCNode Title="GetDeviceName Property " Url="html/b24a8136-b6e2-402c-fd9a-7153a88f891c.htm" />
+        <HelpTOCNode Title="GetDevicePublicKey Property " Url="html/62ea93f8-2851-d941-52c6-b4444a7d50a9.htm" />
+        <HelpTOCNode Title="GetDeviceVersion Property " Url="html/8d4a5e50-14e9-450b-9deb-f4777c2effdc.htm" />
+        <HelpTOCNode Title="GetDieID Property " Url="html/3b0026ee-c2fe-1548-8b14-efa4ad959889.htm" />
+        <HelpTOCNode Title="GetFirmwareVersion Property " Url="html/aa338e08-fa93-623a-9aaa-22ade78771dc.htm" />
+        <HelpTOCNode Title="GetHardwareModel Property " Url="html/88007e5c-f9f1-012d-7071-53c16a2690e3.htm" />
+        <HelpTOCNode Title="GetHostAttached Property " Url="html/8d66dc90-53aa-57b7-487d-40809a7bc1ac.htm" />
+        <HelpTOCNode Title="GetIntegratedCircuitCardIdentity Property " Url="html/04e70220-ea29-b802-571b-8d0c5f00acce.htm" />
+        <HelpTOCNode Title="GetInternationalMobileEquipmentIdentity Property " Url="html/2cb57d49-6230-86db-851c-963ce69d16b3.htm" />
+        <HelpTOCNode Title="GetInternationalMobileSubscriberIdentity Property " Url="html/1f1f4602-dbd1-4268-125d-e167360afb40.htm" />
+        <HelpTOCNode Title="GetiTunesHasConnected Property " Url="html/81207c40-0a5f-d287-50bd-c73d2731dadb.htm" />
+        <HelpTOCNode Title="GetMLBSerialNumber Property " Url="html/dcd9940a-d4e8-55f3-a526-f67139d314fa.htm" />
+        <HelpTOCNode Title="GetMobileSubscriberCountryCode Property " Url="html/7cccdd7a-fd6c-3b3d-dcb4-db5075e0fbdf.htm" />
+        <HelpTOCNode Title="GetMobileSubscriberNetworkCode Property " Url="html/2de251fe-281d-e936-133d-019912dfc8d3.htm" />
+        <HelpTOCNode Title="GetModelNumber Property " Url="html/510d4d47-dae2-dd1d-9dd1-b1aea26fa4c6.htm" />
+        <HelpTOCNode Title="GetPasswordProtected Property " Url="html/ef68a489-2aca-99f5-f7a9-4b655447026d.htm" />
+        <HelpTOCNode Title="GetPhoneNumber Property " Url="html/effd6fdf-9180-43ac-cab1-f2602bad458d.htm" />
+        <HelpTOCNode Title="GetProductionSOC Property " Url="html/2c5a0f91-47a3-a258-acd7-2520d80c3b10.htm" />
+        <HelpTOCNode Title="GetProductType Property " Url="html/ae4fe102-85da-a0bc-3551-cd0dcdec439a.htm" />
+        <HelpTOCNode Title="GetProtocolVersion Property " Url="html/1c79b026-522b-7305-cc09-79d100fb1c00.htm" />
+        <HelpTOCNode Title="GetRegionInfo Property " Url="html/932876f6-a1bc-0bd5-8d9b-7180a6f27286.htm" />
+        <HelpTOCNode Title="GetSBLockdownEverRegisteredKey Property " Url="html/9ef7afa9-0e69-f629-ad34-03477c7d2198.htm" />
+        <HelpTOCNode Title="GetSerialNumber Property " Url="html/2ff101e8-367a-f6a3-df48-fb7d5da36c20.htm" />
+        <HelpTOCNode Title="GetSIMStatus Property " Url="html/f6a20482-3b42-8e9f-d40b-07dd88062c0d.htm" />
+        <HelpTOCNode Title="GetUniqueChipID Property " Url="html/cfbe9696-b4f5-01de-76f6-a08e6376636d.htm" />
+        <HelpTOCNode Title="GetUniqueDeviceID Property " Url="html/1373a21c-c10b-e855-f4fe-c558d53ce3cc.htm" />
+        <HelpTOCNode Title="GetWiFiAddress Property " Url="html/87067d5c-9a0f-22b1-b79b-0925dde70ca8.htm" />
+        <HelpTOCNode Title="IsConnected Property " Url="html/43384b84-f5e8-aa2f-93f2-0ee0183130a8.htm" />
+        <HelpTOCNode Title="IsJailbreak Property " Url="html/c2417c19-7f4b-e9e5-be69-3d60f52f03bc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b09e8936-feb4-4c51-a4c0-13e0f2e83665" Title="TAIiPhone Methods" Url="html/33b6e7a5-8358-4920-ab6a-00a3789bf37f.htm">
+        <HelpTOCNode Title="Copy Method " Url="html/b0ce6a4f-0d3d-c7c0-e59c-052fb019e82b.htm" />
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/df141362-d083-982e-6ed2-bd3fda8606fe.htm" />
+        <HelpTOCNode Id="9123808e-7f42-407c-a4cd-9755a1500ae2" Title="DeleteDirectory Method " Url="html/2d067f61-b44e-cee9-2395-393585eb5caf.htm">
+          <HelpTOCNode Title="DeleteDirectory Method (String)" Url="html/1f0f95d7-e34a-023d-f027-1afb9affa6df.htm" />
+          <HelpTOCNode Title="DeleteDirectory Method (String, Boolean)" Url="html/86214346-5bc2-9c84-a307-2da8e900dd12.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DeleteFile Method " Url="html/43805817-47d1-157b-f3af-a6bb121b095a.htm" />
+        <HelpTOCNode Title="EnterRecovery Method " Url="html/88d715e8-d91c-d590-e1c1-03ff5c4a8b0a.htm" />
+        <HelpTOCNode Title="Exists Method " Url="html/c5693f0b-2346-6aad-fff1-712e69f8f046.htm" />
+        <HelpTOCNode Title="FileSize Method " Url="html/0e04ed18-fb48-e2e8-abd1-f3298b12578e.htm" />
+        <HelpTOCNode Title="FSBlockSize Method " Url="html/b522e9ad-461a-eb16-d8df-3301f0a5d2f1.htm" />
+        <HelpTOCNode Title="GetCopyDeviceIdentifier Method " Url="html/92a18c63-21f8-12cd-760f-7e7e30d1598d.htm" />
+        <HelpTOCNode Title="GetDeviceInfo Method " Url="html/17de0e47-919d-34ed-c467-88816123fb9f.htm" />
+        <HelpTOCNode Title="GetDirectories Method " Url="html/62056176-8351-ff6a-8362-9a3d42a9657e.htm" />
+        <HelpTOCNode Title="GetDirectoryRoot Method " Url="html/854ee438-85d9-b24e-e985-d6517f3b337b.htm" />
+        <HelpTOCNode Id="b7face8d-b3ac-4373-83bf-2f52ff3041ba" Title="GetFileInfo Method " Url="html/a55c0fc9-38bf-61ee-d0e2-475c4d2d9492.htm">
+          <HelpTOCNode Title="GetFileInfo Method (String)" Url="html/ff6db3c2-328c-3bca-eba5-aa2dffdc2836.htm" />
+          <HelpTOCNode Title="GetFileInfo Method (String, UInt64, Boolean)" Url="html/27c2d0dd-22ad-6ef1-120b-6bbcbbcf66ce.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFiles Method " Url="html/4898d7c7-86f3-832f-5b32-187141324c45.htm" />
+        <HelpTOCNode Title="GetInstalledList Method " Url="html/dfdfc4f9-8922-2e4b-f2be-b339c937debc.htm" />
+        <HelpTOCNode Title="GetiphoneSize Method " Url="html/110438b4-4728-8b83-c4d9-abf62678110e.htm" />
+        <HelpTOCNode Title="GetiPhoneStr Method " Url="html/19716036-1064-2f09-91e0-f2de5c13f9b8.htm" />
+        <HelpTOCNode Title="GetRecoverySerialNumber Method " Url="html/72153561-0403-3a41-20cc-73910bae4d01.htm" />
+        <HelpTOCNode Title="GoOutRecovery Method " Url="html/f8eb71aa-03b3-78a2-1be1-5d7f4a3fbc8b.htm" />
+        <HelpTOCNode Title="InstallApplication Method " Url="html/ad4ddbc9-dc6c-55f6-6687-b7c01f5e03ae.htm" />
+        <HelpTOCNode Title="IsDirectory Method " Url="html/51807048-ed01-8218-b6c2-790a48dfd3e6.htm" />
+        <HelpTOCNode Title="IsFile Method " Url="html/13724a75-ebdf-f2f1-4627-e712ae8788ab.htm" />
+        <HelpTOCNode Title="IsLink Method " Url="html/43d6d098-220d-08b2-4859-1745bb9ac0f7.htm" />
+        <HelpTOCNode Title="OnConnect Method " Url="html/329ee541-6253-5967-7fee-2d3b768ff266.htm" />
+        <HelpTOCNode Title="OnDfuConnect Method " Url="html/8d0cb4a6-501a-32bb-1c4a-671dcccbfa07.htm" />
+        <HelpTOCNode Title="OnDfuDisconnect Method " Url="html/77bfb08f-b5f3-2d9e-8b63-07da5757bca8.htm" />
+        <HelpTOCNode Title="OnDisconnect Method " Url="html/da4462f1-55cc-d2f2-87aa-5e3ce40f09c6.htm" />
+        <HelpTOCNode Title="OnRecoveryModeEnter Method " Url="html/441f3b64-5ec0-8281-1412-eb4686d9a6ba.htm" />
+        <HelpTOCNode Title="OnRecoveryModeLeave Method " Url="html/366136b1-61cf-44ba-8536-0e1acf25f263.htm" />
+        <HelpTOCNode Title="ReConnect Method " Url="html/ae45875e-061a-a451-baf5-2e2d45500910.htm" />
+        <HelpTOCNode Title="Rename Method " Url="html/fbb803d2-ccfd-25e6-40a5-4afee76eeac9.htm" />
+        <HelpTOCNode Title="TransferApplication Method " Url="html/e7333e3a-bbdf-8e1e-40e1-cc33883b3adf.htm" />
+        <HelpTOCNode Title="UnInstallApplication Method " Url="html/26a21eed-0e5b-aa1c-7c00-c4b8dbad2828.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2a3763be-376a-4919-80d3-0b2256b89f56" Title="TAIiPhone Events" Url="html/fdd1a5e3-3e76-8611-4c11-e30e5e52e1c6.htm">
+        <HelpTOCNode Title="Connect Event" Url="html/a9f4f34f-bd59-91c1-7f95-5ad42f5ed9ea.htm" />
+        <HelpTOCNode Title="DfuConnect Event" Url="html/c9921c5e-8b15-0b33-033a-1e4ab7f54a9f.htm" />
+        <HelpTOCNode Title="DfuDisconnect Event" Url="html/c88b8ae2-2f31-9b3f-a3bb-5de7cab79e58.htm" />
+        <HelpTOCNode Title="Disconnect Event" Url="html/d2118858-c528-583a-61b6-1f33259ec3c1.htm" />
+        <HelpTOCNode Title="RecoveryModeEnter Event" Url="html/e7bc6dbb-6f80-63e2-dd20-9756bb248125.htm" />
+        <HelpTOCNode Title="RecoveryModeLeave Event" Url="html/4c30ddd4-82c9-27d0-e450-b00deb9f855a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4135ce01-c06d-4f49-afd5-d5a385791a62" Title="TAIiPhone.strFileInfo Structure" Url="html/4e7f8fb2-6f3b-eff8-0980-4fbe2c25a19f.htm">
+      <HelpTOCNode Title="strFileInfo Methods" Url="html/dd949194-e8ce-0217-eb2f-931430ecc7b8.htm" />
+      <HelpTOCNode Id="7f79a141-1b0d-4017-a9e7-75b5ad35981e" Title="strFileInfo Fields" Url="html/2a375052-7e72-b03f-81c5-854937926691.htm">
+        <HelpTOCNode Title="isDir Field" Url="html/27df93d7-7492-5d30-decd-e5bfb92d3a44.htm" />
+        <HelpTOCNode Title="isSLink Field" Url="html/150fed7a-9c67-c63e-f8ac-0b12745b72f4.htm" />
+        <HelpTOCNode Title="name Field" Url="html/782419bb-8ca4-fb66-4d3a-59278049a6f8.htm" />
+        <HelpTOCNode Title="size Field" Url="html/c834bb57-b066-2d16-dacd-3ed2598a3b47.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eefbc5c8-8fc1-4264-b69e-141a82230745" Title="TAIiPhone.strStatVfs Structure" Url="html/d0c92994-b765-5d9c-ecf8-1723a3f68a4d.htm">
+      <HelpTOCNode Title="strStatVfs Methods" Url="html/4c044f49-cb7e-349a-20d2-fb74ddf00ecb.htm" />
+      <HelpTOCNode Id="0c05aa60-f862-495d-89e1-bd728d353622" Title="strStatVfs Fields" Url="html/a73555fa-37cc-2b20-5fcf-36367048dd2f.htm">
+        <HelpTOCNode Title="Bfree Field" Url="html/38b80b83-75cd-7117-b8fc-3016096d2006.htm" />
+        <HelpTOCNode Title="Bsize Field" Url="html/c8a8a7e0-b45e-1821-26d5-a86c191b28d6.htm" />
+        <HelpTOCNode Title="Btotal Field" Url="html/37c4f669-03e7-f2e2-625c-055cffd804d6.htm" />
+        <HelpTOCNode Title="Namemax Field" Url="html/b1070b3b-4265-2163-3643-fe89d7dc5842.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="21d942e8-3fcf-462f-8635-53218daa16d5" Title="MK.MobileDevice.XEDevice" Url="html/9546d7dc-2a8a-f2ab-e891-fca3b223cc2e.htm">
+    <HelpTOCNode Title="AFCErrors Enumeration" Url="html/25faa2e7-3bc1-913d-1a16-66c0334295a6.htm" />
+    <HelpTOCNode Title="AMDErrors Enumeration" Url="html/147375cd-e1fe-cbc4-9fa3-bc185ea539c9.htm" />
+    <HelpTOCNode Id="4120db82-ed9b-429f-a3b2-710093be76d3" Title="AMDeviceNotificationCallbackInfo Structure" Url="html/75f30f91-0f7c-6d23-64b2-c818164365c8.htm">
+      <HelpTOCNode Id="4c4c216b-0796-4290-b191-a48306fd8cad" Title="AMDeviceNotificationCallbackInfo Properties" Url="html/6b0c6b36-01c3-e0d0-e0b9-f603d8613be4.htm">
+        <HelpTOCNode Title="dev Property " Url="html/b115ba28-0115-e631-4e82-61d1352deac7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AMDeviceNotificationCallbackInfo Methods" Url="html/f74721d0-2a56-0dff-8552-2556ed5939bd.htm" />
+      <HelpTOCNode Id="b80263bb-3935-4ccd-8fc6-411b1008ac39" Title="AMDeviceNotificationCallbackInfo Fields" Url="html/f20c4a03-3980-246c-727f-b6a992b8f3a5.htm">
+        <HelpTOCNode Title="dev_ptr Field" Url="html/1c0f0a34-0838-fa07-c0e8-80db3978b7fb.htm" />
+        <HelpTOCNode Title="msg Field" Url="html/2ca610ad-47aa-94d0-087d-f52b650b8a04.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="38723fab-da4d-4849-932e-3dd98b225085" Title="AMRecoveryDevice Structure" Url="html/9ccadb18-1cdc-31d0-cbfb-939870acb9ad.htm">
+      <HelpTOCNode Title="AMRecoveryDevice Methods" Url="html/0aae4e5c-6b14-4756-b886-b4e5bf3e80b7.htm" />
+      <HelpTOCNode Id="bbecb04d-5033-4e2c-b6d8-fe762277c994" Title="AMRecoveryDevice Fields" Url="html/f3465e83-a983-baff-704c-4b096515b44c.htm">
+        <HelpTOCNode Title="callback Field" Url="html/9c7364a1-1458-1ba5-47cc-6d833a3162d6.htm" />
+        <HelpTOCNode Title="read_pipe Field" Url="html/f0f92f1c-5de7-07b4-52cd-d2939525c8e4.htm" />
+        <HelpTOCNode Title="read_unknown_pipe Field" Url="html/8233940b-5d91-c398-599a-f3f0451ce12f.htm" />
+        <HelpTOCNode Title="readwrite_pipe Field" Url="html/3a75e7ce-8ed1-8c5f-6d62-54fe5f808ce1.htm" />
+        <HelpTOCNode Title="unknown0 Field" Url="html/c61ed1c7-e91b-41bb-c5f2-620b77dd3531.htm" />
+        <HelpTOCNode Title="unknown1 Field" Url="html/c2d6bf0d-7153-2ead-4823-d0ad96ba864b.htm" />
+        <HelpTOCNode Title="user_info Field" Url="html/46fc7dd7-9999-629a-89d0-92b9162acd42.htm" />
+        <HelpTOCNode Title="write_ctrl_pipe Field" Url="html/fc8c9811-eb3f-32b8-f8bb-add6a12d14f4.htm" />
+        <HelpTOCNode Title="write_file_pipe Field" Url="html/fb11ceb6-bb46-1153-0116-45ec9532dc12.htm" />
+        <HelpTOCNode Title="write_input_pipe Field" Url="html/fa798c91-ae94-45bf-8002-e0c940ae7316.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf958970-4bb3-4f3c-855b-c5eca1583453" Title="CFDictParser Class" Url="html/cad01bea-668e-e224-c123-5845cee45959.htm">
+      <HelpTOCNode Title="CFDictParser Constructor " Url="html/3eb8796c-cc3f-5d1f-9918-b2c0d5fcb26f.htm" />
+      <HelpTOCNode Id="f9f92aef-c934-43f1-848c-f9dc72edb2e6" Title="CFDictParser Methods" Url="html/d48d2a5e-2be8-63e6-38a8-4b482b758040.htm">
+        <HelpTOCNode Title="Parse Method " Url="html/2570a385-2cfd-df48-4032-36b2b8934464.htm" />
+        <HelpTOCNode Title="ParseAppDictionaryData Method " Url="html/53ea4e6e-089f-475f-d7b8-ff5e4b8889e9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="effb064a-e151-4704-b28f-07d39b3b28c9" Title="ConnectEventArgs Class" Url="html/ac9700b5-c83e-c51a-ce94-3e8a8aedb1cb.htm">
+      <HelpTOCNode Title="ConnectEventArgs Constructor " Url="html/bc59c475-236d-7810-caea-f426ce10ce63.htm" />
+      <HelpTOCNode Id="1852d4a5-6546-4bbe-bef8-8405e370d5a1" Title="ConnectEventArgs Properties" Url="html/a43e6d6c-be75-2b1f-b7d6-2c3613af434f.htm">
+        <HelpTOCNode Title="Device Property " Url="html/7340ecf8-4843-f30e-6a81-6b127e979e93.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/4a9dc456-0183-c803-e7d2-b78496788aaf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ConnectEventArgs Methods" Url="html/4c02fbf3-a810-7901-8cd8-14c4728eaab0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ConnectEventHandler Delegate" Url="html/6495a65d-ea07-188d-caed-570105ddf3b5.htm" />
+    <HelpTOCNode Title="DeviceNotificationCallback Delegate" Url="html/28c11026-629e-ab58-d8e8-e77d138593de.htm" />
+    <HelpTOCNode Id="9dc5e204-09ad-4f28-b71e-51fb1584cdc4" Title="DeviceNotificationEventArgs Class" Url="html/6cea5e84-6f55-b865-6984-36c952592dae.htm">
+      <HelpTOCNode Title="DeviceNotificationEventArgs Constructor " Url="html/fd541331-db29-662d-83b6-29f0dc3399cb.htm" />
+      <HelpTOCNode Id="67164437-2b94-41be-998f-0a7a9dd0f518" Title="DeviceNotificationEventArgs Properties" Url="html/8f184639-6349-8cfd-0581-2e05be9d30f6.htm">
+        <HelpTOCNode Title="Device Property " Url="html/e039524f-e8ae-a5a4-9400-19a1d570d512.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DeviceNotificationEventArgs Methods" Url="html/b3c0c637-f150-91af-1e87-64556766c1a8.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="DeviceRestoreNotificationCallback Delegate" Url="html/54bd18dc-baf3-683b-1eb0-f5ffc8b98823.htm" />
+    <HelpTOCNode Title="EnumFolderOrFile Enumeration" Url="html/bd9e20d5-1fab-ad9f-b19a-39b9f9849cc3.htm" />
+    <HelpTOCNode Id="c87cabba-a760-4961-9228-cc2ac3b3606b" Title="IDSafeUpdateDelegate Interface" Url="html/6c556574-c5f1-bf5a-e292-7590e435e7e3.htm">
+      <HelpTOCNode Id="db7de677-6ede-4e3c-b4ab-f91711ba6bd1" Title="IDSafeUpdateDelegate Methods" Url="html/5c8647d0-6512-bfeb-9159-7578dfe1fd24.htm">
+        <HelpTOCNode Title="HandleTransferUpdate Method " Url="html/73d7bc6e-f26b-ed56-872a-25fbc6b8e3d9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1d21b4a0-0f8b-4cba-9ded-903a3506f340" Title="iPhoneXE Class" Url="html/5335936c-3943-8019-ccbc-1cff13e25454.htm">
+      <HelpTOCNode Id="2aafabdc-03a1-467a-a736-2dea84f522f0" Title="iPhoneXE Constructor " Url="html/ebf26c79-c8a7-ef4d-9d88-c7a0169851c7.htm">
+        <HelpTOCNode Title="iPhoneXE Constructor (iPhoneXEDelegate)" Url="html/703c0034-263b-cdce-97ff-290a7966de9f.htm" />
+        <HelpTOCNode Title="iPhoneXE Constructor (ConnectEventArgs, Boolean, iPhoneXEDelegate)" Url="html/b849c131-f9ac-4aff-17d4-c6d26ba5b3ad.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f5a9acea-d4fd-4c60-99c5-03a0800e5b63" Title="iPhoneXE Properties" Url="html/ff4b9df9-4c52-6aff-b7af-21e1b5a2dd0b.htm">
+        <HelpTOCNode Title="ActivationState Property " Url="html/da40fb16-2c32-d48d-8a75-ed3227ccb90e.htm" />
+        <HelpTOCNode Title="AFCHandle Property " Url="html/89018f40-9bdf-5f08-43c7-c4a01471bb23.htm" />
+        <HelpTOCNode Title="Device Property " Url="html/8bcec0cc-8bbe-cf5a-7f55-c9dad6817ae0.htm" />
+        <HelpTOCNode Title="DeviceHasCamera Property " Url="html/87bd04cb-eb0a-c87d-1d71-4d00b8971394.htm" />
+        <HelpTOCNode Title="DeviceHasPhone Property " Url="html/d8de1367-77d0-93ae-4e25-b8a837183dd9.htm" />
+        <HelpTOCNode Title="deviceID Property " Url="html/ab30bcbd-a871-db50-5912-fe01465529aa.htm" />
+        <HelpTOCNode Title="DeviceImageUri Property " Url="html/5dc31ff5-5e58-c106-a410-3ea279b2414b.htm" />
+        <HelpTOCNode Title="deviceName Property " Url="html/f3c0da2d-2d11-e98d-7310-4ad4a6f5683e.htm" />
+        <HelpTOCNode Title="IsAFCHandleNotNull Property " Url="html/873294fd-fdcd-679e-ef53-75562c8fbc1a.htm" />
+        <HelpTOCNode Title="IsConnected Property " Url="html/80022468-3ff7-8179-e7e4-66e007f72b3a.htm" />
+        <HelpTOCNode Title="IsJailbreak Property " Url="html/aa1093ef-99b4-23e2-aa19-956d7df1a8da.htm" />
+        <HelpTOCNode Title="IsUsingAFC2 Property " Url="html/56f3091f-e562-e26d-ccae-090f95a1d120.htm" />
+        <HelpTOCNode Title="ProductVersion Property " Url="html/a3fff8f1-047b-90b2-6c3b-4b32773e8d45.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8d84f7f0-71c3-4931-99c9-2cc56d359fe7" Title="iPhoneXE Methods" Url="html/3f0b6606-ad6c-88aa-3454-05c75764c5f5.htm">
+        <HelpTOCNode Title="AppBundles Method " Url="html/e43f18df-cea3-6dbc-3e6b-06de7f58d229.htm" />
+        <HelpTOCNode Title="AppImageCachedPath Method " Url="html/1ab65488-882e-5129-2190-6551370de881.htm" />
+        <HelpTOCNode Title="CancelTransfer Method " Url="html/0770219a-691f-85f9-2fef-f339a6bbe182.htm" />
+        <HelpTOCNode Title="CloseFile Method " Url="html/159e0bf1-27b7-af63-97ed-48e67008e5b1.htm" />
+        <HelpTOCNode Title="ConnectToPhone Method " Url="html/c8bbe6f0-f7a9-1d0b-35f5-ab4f18812a78.htm" />
+        <HelpTOCNode Title="copyBytesFromDevice Method " Url="html/d3bce6b2-7ff0-39ec-07e3-967ee93574bb.htm" />
+        <HelpTOCNode Title="CopyDeviceValue Method " Url="html/a8f1ad7e-0359-e56b-ad7b-8f98afeb2d6c.htm" />
+        <HelpTOCNode Title="CopyFromComputerToDevice Method " Url="html/bc36cbb1-7e45-de2f-35ad-a06b9542b2a0.htm" />
+        <HelpTOCNode Id="2b1f3571-3520-4a3f-b225-8181dda15de9" Title="CopyFromDeviceToComputer Method " Url="html/0ddfcc65-6b06-6db9-48b1-763c47eeac6b.htm">
+          <HelpTOCNode Title="CopyFromDeviceToComputer Method (String, Stream, String)" Url="html/686cc3ba-3d4e-92d6-d2ae-7c06f572aac2.htm" />
+          <HelpTOCNode Title="CopyFromDeviceToComputer Method (String, String, String)" Url="html/662bfd5a-41fc-43fb-4a81-b1ada0dd6d4b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/9eb48a48-1e12-6516-a043-67c4d4f8be16.htm" />
+        <HelpTOCNode Title="DateAsInt Method " Url="html/2724b110-1baa-5ef9-d24f-97dfdf67b26b.htm" />
+        <HelpTOCNode Id="16eddb8a-62e7-4e93-b02f-4b4342ed4f5e" Title="DeleteDirectory Method " Url="html/2fc42fca-380e-8a8e-1c90-d79f945f7f4b.htm">
+          <HelpTOCNode Title="DeleteDirectory Method (String, String)" Url="html/c1607423-4d00-d830-8a27-c26b0e599d82.htm" />
+          <HelpTOCNode Title="DeleteDirectory Method (String, Boolean, String)" Url="html/67989360-0990-ed37-c324-55f3cbae18ee.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DeleteFile Method " Url="html/6315364f-5c3f-3d92-a57a-cf2b9168c175.htm" />
+        <HelpTOCNode Title="Disconnect Method " Url="html/9ccba66b-9827-f211-ae3c-3d3ea0316ad9.htm" />
+        <HelpTOCNode Title="EnsureFileExists Method " Url="html/a68000cf-25f5-af57-2bd3-05fbccd1108b.htm" />
+        <HelpTOCNode Title="eventArgsContainDeviceHandle Method " Url="html/077aa9ac-dff2-4c05-7c74-8e3642ec0a65.htm" />
+        <HelpTOCNode Title="Exists Method " Url="html/29f48abe-ac74-f349-516d-ea5bf5af9405.htm" />
+        <HelpTOCNode Title="FileSize Method " Url="html/19514afa-6071-0927-e596-3cd3c91790b7.htm" />
+        <HelpTOCNode Title="GetContents Method " Url="html/268e91d0-8380-b8df-cd81-5936ace02483.htm" />
+        <HelpTOCNode Title="GetDeviceInfo Method " Url="html/0f911a88-4638-5bb5-3e3b-802929862646.htm" />
+        <HelpTOCNode Title="GetDirectories Method " Url="html/8d2728bf-7c27-1f16-397b-ad2e34c26c57.htm" />
+        <HelpTOCNode Id="2fe47fd4-467e-47e4-b7ff-a81ea0b2a58b" Title="GetFileInfo Method " Url="html/f99f2640-9fcb-4c5c-3ec3-8e1c18866593.htm">
+          <HelpTOCNode Title="GetFileInfo Method (String, String)" Url="html/e68468f0-b556-31c5-408b-25459b4db0a6.htm" />
+          <HelpTOCNode Title="GetFileInfo Method (String, UInt64, Boolean, UInt64, String)" Url="html/43f77572-7769-d06b-2978-f4c81475b899.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFiles Method " Url="html/d3547825-7410-4035-fd1f-2a98e6b7bb97.htm" />
+        <HelpTOCNode Title="GetFileSize Method " Url="html/4c15ee11-98a5-4581-e2af-8679ee0a48e7.htm" />
+        <HelpTOCNode Title="getFreeDeviceCapacity Method " Url="html/ca51c7b9-1ef7-ceb9-8b80-fb28f1dea5dc.htm" />
+        <HelpTOCNode Title="getTotalDeviceCapacity Method " Url="html/b6a8d28e-5a2b-4150-40bd-f88c450279e2.htm" />
+        <HelpTOCNode Title="IsCoreFoundationOK Method " Url="html/4ac8961c-8ebe-1a3c-4389-2153d000386e.htm" />
+        <HelpTOCNode Title="IsDirectory Method " Url="html/f9a6c04f-6044-bfd4-7b6a-f41cc92d5093.htm" />
+        <HelpTOCNode Title="OpenFile Method " Url="html/c9d34b21-1a26-babc-eb91-8672ddd568dc.htm" />
+        <HelpTOCNode Title="ReadBytesFromFile Method " Url="html/1c1ffc03-c9a3-baf4-f8c3-966dcc38bf97.htm" />
+        <HelpTOCNode Title="Rename Method " Url="html/d6ca01ca-a5ce-a291-9fa5-e23b67bc4852.htm" />
+        <HelpTOCNode Title="SetFileSize Method " Url="html/9ba1c8a7-63ab-e312-dea0-a184f21a35a9.htm" />
+        <HelpTOCNode Title="SetManager Method " Url="html/db80c73f-e973-3900-d73f-b3b96645e5ef.htm" />
+        <HelpTOCNode Title="SpringboardIconPNGData Method " Url="html/5f70d1fc-23e1-8f7c-d954-ccec55d04295.htm" />
+        <HelpTOCNode Title="WriteBytesToFile Method " Url="html/62980403-45fe-c6b6-6b8f-13d9301cd865.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c2ea7413-26b3-458d-9987-cfb4bc27f675" Title="iPhoneXE Fields" Url="html/c4c638e5-d93a-9534-66af-1b4e53e8c357.htm">
+        <HelpTOCNode Title="AskBeforeOverwritingSameFile Field" Url="html/525af516-2341-f583-0b38-6f9f79dd6aef.htm" />
+        <HelpTOCNode Title="BundleID_AFC Field" Url="html/70729a19-90be-498d-ec7b-c163f89bc98e.htm" />
+        <HelpTOCNode Title="BundleID_AFC2 Field" Url="html/a5cda9b4-79b0-59d3-ddec-a426094c8c21.htm" />
+        <HelpTOCNode Title="BundleID_AppsDir Field" Url="html/ed4c2391-4aab-01d3-1e71-769cc6684386.htm" />
+        <HelpTOCNode Title="BundleID_Springboard Field" Url="html/2d86a238-6b23-e90d-c2e1-439af4d4d896.htm" />
+        <HelpTOCNode Title="currentBundleID Field" Url="html/b13bfe19-6c28-ffea-8a06-537ec61fd597.htm" />
+        <HelpTOCNode Title="hAFC Field" Url="html/5e920e2b-3618-c40c-c3b4-2cb4d0c5ca09.htm" />
+        <HelpTOCNode Title="hService Field" Url="html/35d1efa4-206d-f981-fbf2-34baf0a87c33.htm" />
+        <HelpTOCNode Title="iPhoneHandle Field" Url="html/bcb25a84-9ef1-46fc-7653-f14b393da705.htm" />
+        <HelpTOCNode Title="showHiddenFilesAndFolders Field" Url="html/5e4214a5-bb62-43e7-0089-81d371f05630.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9d4f4164-efff-4fe8-aafe-e718ca4d4afa" Title="iPhoneXEDelegate Interface" Url="html/a71b410d-82ed-e53a-f096-bbb9c5acf90e.htm">
+      <HelpTOCNode Id="2eb8237a-2d81-45d5-baf8-539f9b2a1238" Title="iPhoneXEDelegate Methods" Url="html/e5e727c0-6ae3-d068-5b1e-f299df55d9c7.htm">
+        <HelpTOCNode Title="UpdateFileTransferProgress Method " Url="html/dfabd03d-8be9-9a18-1acd-0a8604d8fab4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d53a111a-01a4-4834-afd4-a00a02992868" Title="iPhoneXEManager Class" Url="html/e9bf02a5-8f57-fcd3-b1de-387af259db94.htm">
+      <HelpTOCNode Title="iPhoneXEManager Constructor " Url="html/382a8b07-21eb-b4db-dd87-27c989aa3cd4.htm" />
+      <HelpTOCNode Id="6050c1b3-1660-474e-b24b-bdebbd06b075" Title="iPhoneXEManager Methods" Url="html/0fab22f8-b57f-80f6-5130-bf72b67e2eb2.htm">
+        <HelpTOCNode Title="NotifyUpdate Method " Url="html/1c056ba3-cc08-ddff-150b-ad51f2589ce6.htm" />
+        <HelpTOCNode Title="OnConnect Method " Url="html/02c73729-d0d0-184a-20c0-daa31cfe432b.htm" />
+        <HelpTOCNode Title="OnDfuConnect Method " Url="html/8fd2958e-cd19-1900-fbf6-824295703b77.htm" />
+        <HelpTOCNode Title="OnDfuDisconnect Method " Url="html/51004175-9231-e3e9-1d89-c7fe6123bda0.htm" />
+        <HelpTOCNode Title="OnDisconnect Method " Url="html/5a292cf2-f393-94f9-56ef-7a5a58ba9aab.htm" />
+        <HelpTOCNode Title="OnRecoveryModeEnter Method " Url="html/39001401-64eb-dc66-f674-59d81c1a137c.htm" />
+        <HelpTOCNode Title="OnRecoveryModeLeave Method " Url="html/582f8baf-39df-a799-48d8-41b5795dc700.htm" />
+        <HelpTOCNode Title="SetSafeDelegate Method " Url="html/b1206fd7-10ff-5ed5-54aa-cfe59e474111.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a37fde90-7354-420d-94f2-59075eff548e" Title="iTunesNotInstalledException Class" Url="html/bf7f7ecf-dc48-2152-bafe-3ec2bc4e84b3.htm">
+      <HelpTOCNode Title="iTunesNotInstalledException Constructor " Url="html/3d36b040-9dea-293c-ac27-ce36de725a1b.htm" />
+      <HelpTOCNode Title="iTunesNotInstalledException Properties" Url="html/35971e8c-cd3c-dffa-c47d-852893c40b7c.htm" />
+      <HelpTOCNode Title="iTunesNotInstalledException Methods" Url="html/e369e5b8-b849-a103-aec0-3b4809e4c0a8.htm" />
+      <HelpTOCNode Title="iTunesNotInstalledException Events" Url="html/ba164d14-b12d-e507-ba28-8ac2c7d930c3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7885ed02-58c1-4033-8742-61233fa82a2f" Title="LogViewer Class" Url="html/3aef5d89-b531-201b-ed7a-ec90b851b341.htm">
+      <HelpTOCNode Title="LogViewer Constructor " Url="html/4caf5c81-acda-c294-0d93-55fb9af50f86.htm" />
+      <HelpTOCNode Id="edf6b352-24e8-43be-928f-1a242191df41" Title="LogViewer Methods" Url="html/d943410f-d8af-b7dd-91f0-833f2c371643.htm">
+        <HelpTOCNode Id="eb247f27-fd8d-4400-8d08-951dba206a2f" Title="LogEvent Method " Url="html/3ecd398e-a7e3-4e1a-2664-cf605b7193d3.htm">
+          <HelpTOCNode Title="LogEvent Method (String)" Url="html/f90ebec7-be66-0f11-ce0c-077d94dd02b2.htm" />
+          <HelpTOCNode Title="LogEvent Method (Int32, String)" Url="html/a3ca4687-b4a4-ecc8-1817-e0a37441a959.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="59fb0923-ea58-4723-92c2-c256f39f0af5" Title="MobileDeviceBase Class" Url="html/cad8b22d-adff-86e8-0f04-e2a4290c8578.htm">
+      <HelpTOCNode Title="MobileDeviceBase Constructor " Url="html/e85a33ef-1cef-2709-46f8-70a01763550b.htm" />
+      <HelpTOCNode Id="72bd4a3f-d761-411e-a058-80137363cbd5" Title="MobileDeviceBase Methods" Url="html/17c0e3ce-78a0-3c08-a23d-8fe8c9d91afb.htm">
+        <HelpTOCNode Title="__CFStringMakeConstantString Method " Url="html/aae151a4-9534-ff6e-1045-0fcd341b4ece.htm" />
+        <HelpTOCNode Title="AFCConnectionClose Method " Url="html/076311b3-60e5-cf55-198a-e8f5e368918f.htm" />
+        <HelpTOCNode Title="AFCConnectionInvalidate Method " Url="html/d5b21714-8570-b695-b4c2-df7138cdc9ee.htm" />
+        <HelpTOCNode Title="AFCConnectionIsValid Method " Url="html/01197b67-acf6-6ccf-7861-949fbf2325b9.htm" />
+        <HelpTOCNode Title="AFCConnectionOpen Method " Url="html/c01f14f5-df6f-6966-39d8-d6bb386bf709.htm" />
+        <HelpTOCNode Title="AFCDeviceInfoOpen Method " Url="html/1184ed70-4d8e-47f8-9fba-0300df1b0f83.htm" />
+        <HelpTOCNode Title="AFCDirectoryClose Method " Url="html/2a69d539-8b3b-a4ee-2609-372d24a00337.htm" />
+        <HelpTOCNode Title="AFCDirectoryCreate Method " Url="html/94c2e402-fd13-6b17-d693-64da0eaea518.htm" />
+        <HelpTOCNode Title="AFCDirectoryOpen Method " Url="html/636fd418-6c55-62f2-483e-171c2c932b53.htm" />
+        <HelpTOCNode Title="AFCDirectoryRead Method " Url="html/2cc1abd3-31ba-0fd9-1aab-609b228522f2.htm" />
+        <HelpTOCNode Title="AFCFileInfoOpen Method " Url="html/4576d3f0-7b23-fda5-6798-066d7f9198e5.htm" />
+        <HelpTOCNode Title="AFCFileRefClose Method " Url="html/59184ebb-1fc7-5d5a-54c1-b5ce5c0ec2cf.htm" />
+        <HelpTOCNode Title="AFCFileRefOpen Method " Url="html/2c325b77-7da9-034b-c5fb-9d8abe9f955b.htm" />
+        <HelpTOCNode Title="AFCFileRefRead Method " Url="html/6217855b-cea6-88ac-e97f-dd9ee18e2087.htm" />
+        <HelpTOCNode Title="AFCFileRefSeek Method " Url="html/48d2378e-5a86-1ab4-e96a-789a9ccfc867.htm" />
+        <HelpTOCNode Title="AFCFileRefSetFileSize Method " Url="html/c872f5b6-fec8-1295-c09e-5f26a3295d70.htm" />
+        <HelpTOCNode Title="AFCFileRefTell Method " Url="html/0aef7514-9ac1-679d-e5dd-e748b2bd90d5.htm" />
+        <HelpTOCNode Title="AFCFileRefWrite Method " Url="html/72d988f3-e3b6-ec4d-cdfa-02e997ad7cdf.htm" />
+        <HelpTOCNode Title="AFCFlushData Method " Url="html/9f4fbf8d-a8cb-2ae4-3eca-15ec2bda8b48.htm" />
+        <HelpTOCNode Title="AFCKeyValueClose Method " Url="html/46772241-6a1d-04f5-e8e0-b291080ebeee.htm" />
+        <HelpTOCNode Title="AFCKeyValueRead Method " Url="html/b6b19d06-8144-4feb-d32b-3f99eea4c852.htm" />
+        <HelpTOCNode Title="AFCRemovePath Method " Url="html/2d41af37-bb34-d4f5-8ff3-d32f78124ef7.htm" />
+        <HelpTOCNode Title="AFCRenamePath Method " Url="html/b5f133de-c417-b4ec-e07b-d086c84a4e88.htm" />
+        <HelpTOCNode Title="AMDeviceConnect Method " Url="html/56cea3f0-fe31-31f6-e89e-66758e9a44d1.htm" />
+        <HelpTOCNode Title="AMDeviceCopyValue Method " Url="html/1d8c5dee-b715-2145-5a31-b5cc20fe946d.htm" />
+        <HelpTOCNode Title="AMDeviceCopyValue_1 Method " Url="html/77825d07-630f-88e0-ab1a-e2fa8f003b3d.htm" />
+        <HelpTOCNode Title="AMDeviceDisconnect Method " Url="html/03e18869-f079-61ea-8dc2-187ff3bd06ab.htm" />
+        <HelpTOCNode Title="AMDeviceGetConnectionID Method " Url="html/155f5ead-964f-f3f4-28c8-26aa358869e6.htm" />
+        <HelpTOCNode Title="AMDeviceIsPaired Method " Url="html/ecb9005c-87c3-ac38-2e72-fb9f8dab1eef.htm" />
+        <HelpTOCNode Title="AMDeviceLookupApplications Method " Url="html/e6b9dbc8-ad34-39c5-75cc-8f296ca91511.htm" />
+        <HelpTOCNode Title="AMDeviceNotificationSubscribe Method " Url="html/d036bd01-a893-137e-cb04-cd46bec97725.htm" />
+        <HelpTOCNode Title="AMDevicePair Method " Url="html/710bd57a-d5b2-80e0-db65-c5cd5a279748.htm" />
+        <HelpTOCNode Title="AMDeviceStartHouseArrestService Method " Url="html/f01cb99b-5e5a-d669-19be-a2b6f4db52ec.htm" />
+        <HelpTOCNode Title="AMDeviceStartService Method " Url="html/c664c7bc-1a3c-b26c-a84d-e38e42f752de.htm" />
+        <HelpTOCNode Title="AMDeviceStartSession Method " Url="html/ea12fd73-499a-2ea0-b90f-84d82592b6c9.htm" />
+        <HelpTOCNode Title="AMDeviceStopSession Method " Url="html/60969d23-8ba5-0d13-e3e3-a48dee806063.htm" />
+        <HelpTOCNode Title="AMDeviceUnpair Method " Url="html/0872c87a-95c8-af48-7153-fe49d044dbc5.htm" />
+        <HelpTOCNode Title="AMDeviceValidatePairing Method " Url="html/5d8fb82c-48df-af42-f68a-cecd52f0d1b0.htm" />
+        <HelpTOCNode Title="AMRestoreModeDeviceCreate Method " Url="html/c1b8165a-86ed-8de2-a203-881e98205d76.htm" />
+        <HelpTOCNode Title="AMRestoreRegisterForDeviceNotifications Method " Url="html/0644bf3a-87ea-1110-ce23-d1347bab3f9b.htm" />
+        <HelpTOCNode Title="CFArrayGetValueAtIndex Method " Url="html/38ca909c-9977-9cf2-a493-beed07aae768.htm" />
+        <HelpTOCNode Title="CFDictionaryContainsKey Method " Url="html/42f060a0-28de-cc8f-2118-450be387a806.htm" />
+        <HelpTOCNode Title="CFDictionaryCreate Method " Url="html/23b5f778-ad0e-ee9b-3f44-03778a3a3ab3.htm" />
+        <HelpTOCNode Title="CFDictionaryGetCount Method " Url="html/498b502c-1a86-aab6-2408-d5e146a1dfa3.htm" />
+        <HelpTOCNode Title="CFDictionaryGetKeysAndValues Method " Url="html/8c15bd99-afad-ca98-bcd6-a6fd5c824de4.htm" />
+        <HelpTOCNode Title="CFRelease Method " Url="html/0eb8a8d3-2809-595f-7dd0-f77b6b5cf2ca.htm" />
+        <HelpTOCNode Title="CFShow Method " Url="html/35d98baf-07fb-e230-1caa-75c6df40c2e5.htm" />
+        <HelpTOCNode Title="CFStringGetCString Method " Url="html/dee06477-5f95-e69c-40df-5274fa181651.htm" />
+        <HelpTOCNode Title="CFStringGetLength Method " Url="html/c7212736-ad74-0463-18f9-655a89b90a2f.htm" />
+        <HelpTOCNode Title="CFStringToString Method " Url="html/2b0e356b-8196-cbda-d2b8-e57df150b472.htm" />
+        <HelpTOCNode Title="IDDirectoryRead Method " Url="html/a45b99f8-f424-9d76-4fd8-b734ec35c38a.htm" />
+        <HelpTOCNode Title="StringToCFString Method " Url="html/bdf1f8e4-bfb0-7581-2ed1-d289918b9d11.htm" />
+        <HelpTOCNode Title="StringToCString Method " Url="html/4656f7d4-759b-d98f-c01e-753a684e6a77.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="de3a983c-f999-459c-bb29-5996622ae610" Title="MobileDeviceBase.__CFArray Structure" Url="html/5ca5fbaa-089b-e545-db0f-53647c954735.htm">
+      <HelpTOCNode Title="__CFArray Methods" Url="html/15829a79-dec7-4c37-4fc9-8a5d09cfb73a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="df6ae05f-caa6-4dd0-ac57-cc7ce5bb1abf" Title="MobileDeviceBase.__CFDictionary Structure" Url="html/1665a1b1-ba5d-d290-cf61-306f0de5e7d1.htm">
+      <HelpTOCNode Title="__CFDictionary Methods" Url="html/fc38d1fe-eabf-c55c-3d47-abbb989a47c2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="94ca26be-5ca9-4f93-9fe5-84c0734b7a01" Title="MobileDeviceBase.__CFString Structure" Url="html/08c10732-619a-731f-0a94-3eb59efdf456.htm">
+      <HelpTOCNode Title="__CFString Methods" Url="html/2d2ad89c-ee6b-b349-f9c7-f0612302c39e.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="NotificationMessage Enumeration" Url="html/1a1df365-3f30-1fdf-28ab-89011bf12b72.htm" />
+    <HelpTOCNode Title="OpenMode Enumeration" Url="html/73cf3670-aab4-bcea-e038-a97ec530b453.htm" />
+    <HelpTOCNode Id="a2e1e938-901b-4135-ad55-92fad0aa88f7" Title="ProductInfo Class" Url="html/a80e155f-15cd-9c7b-dfbd-e041e05314bc.htm">
+      <HelpTOCNode Title="ProductInfo Constructor " Url="html/7dc90301-d9c6-07fd-fe71-40bf1ba75637.htm" />
+      <HelpTOCNode Id="81d2b8ac-89ae-40be-b0e5-37a0e92bc4f8" Title="ProductInfo Properties" Url="html/820c53eb-2c8f-3da3-29e8-d5438ff670a6.htm">
+        <HelpTOCNode Title="Color Property " Url="html/8b89add9-a819-4a4a-70be-b68c073cd347.htm" />
+        <HelpTOCNode Title="Model Property " Url="html/c67ebcdc-f9df-8389-315f-7e3741fdbd25.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3c25d632-da4c-4a47-8d52-5654a6ae545d" Title="ProductInfo Methods" Url="html/d80ade44-d40b-1a06-86f9-7052d1e0a959.htm">
+        <HelpTOCNode Title="GetProductInfoForDevice Method " Url="html/af4e8f9b-a745-d7a9-d7c5-28f2cac6764b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ProductInfo.ColorType Enumeration" Url="html/c04da6d6-ae4f-9b22-0390-4f88331bc706.htm" />
+    <HelpTOCNode Title="ProductInfo.ModelType Enumeration" Url="html/95c8cb31-8519-a26c-7637-2cf147556703.htm" />
+    <HelpTOCNode Id="3e09eb0f-3c24-4aa9-b4c5-3f9b8ab86428" Title="UTF8Marshaler Class" Url="html/d9f47e0e-e2e7-3abb-ec68-a1c9a5d6cd61.htm">
+      <HelpTOCNode Title="UTF8Marshaler Constructor " Url="html/0b7e2f3c-5894-d4fd-f905-8147ac653291.htm" />
+      <HelpTOCNode Id="56c1e697-3514-4b7c-b5a9-f51f264d77c4" Title="UTF8Marshaler Methods" Url="html/7c5ed4b0-c9b8-664f-732e-7d94efc9359f.htm">
+        <HelpTOCNode Title="CleanUpManagedData Method " Url="html/11eac1e0-a563-4f47-18de-50352db5f30b.htm" />
+        <HelpTOCNode Title="CleanUpNativeData Method " Url="html/93532248-6ea5-5395-452d-2a17c0fca5b1.htm" />
+        <HelpTOCNode Title="GetInstance Method " Url="html/8cf0d1b8-2ba1-c465-3a1b-3103c45c1566.htm" />
+        <HelpTOCNode Title="GetNativeDataSize Method " Url="html/4808e1db-eb02-da42-2179-091261110158.htm" />
+        <HelpTOCNode Title="MarshalManagedToNative Method " Url="html/bf9562b1-a546-4291-ceb0-b0b231b9984b.htm" />
+        <HelpTOCNode Title="MarshalNativeToManaged Method " Url="html/248243ef-5a5e-4f69-b9c0-d22cee1047d1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d13f9690-1328-4b8b-8e19-24f9ea1596f9" Title="XEDeviceApplicationInfo Class" Url="html/5599500a-fdd9-11f5-17f9-a69be16a591f.htm">
+      <HelpTOCNode Title="XEDeviceApplicationInfo Constructor " Url="html/beaa06a1-63a0-859f-a1ca-c438a107112e.htm" />
+      <HelpTOCNode Id="57d22a96-778c-4aeb-98c9-44d844af9741" Title="XEDeviceApplicationInfo Properties" Url="html/f30aa48a-ea5c-5c6e-eb95-e982b4ad033a.htm">
+        <HelpTOCNode Title="AppFolder Property " Url="html/ce0aa2b2-c950-c01d-780d-c7872815b0ea.htm" />
+        <HelpTOCNode Title="ApplicationType Property " Url="html/fd8e4b4f-d575-a1b2-70eb-212b5e5d2ec4.htm" />
+        <HelpTOCNode Title="BundleID Property " Url="html/446e767c-5822-459c-9c88-3f27040869bf.htm" />
+        <HelpTOCNode Title="BundleName Property " Url="html/d62e6518-3cb0-a197-762d-c3137cc0b9d3.htm" />
+        <HelpTOCNode Title="DisplayName Property " Url="html/1bcaca4f-0989-5ce7-e13a-2a013669cc8e.htm" />
+        <HelpTOCNode Title="FileSharingEnabled Property " Url="html/208f91cf-f393-6158-42bd-9b2eb3d37f62.htm" />
+        <HelpTOCNode Title="ICloudDocumentIDs Property " Url="html/96ea716b-868f-b5a7-db97-6ebef1e431be.htm" />
+        <HelpTOCNode Title="ICloudKVID Property " Url="html/a2c79ef0-1893-a7c4-d9ed-b8a1f7362315.htm" />
+        <HelpTOCNode Title="IconPath Property " Url="html/32b9299e-6a75-9bae-a9b4-d3fe1ef88e54.htm" />
+        <HelpTOCNode Title="IsAppTypeUser Property " Url="html/61f5ed3b-757f-1f82-5578-96303b32e4a8.htm" />
+        <HelpTOCNode Title="IsFromAppStore Property " Url="html/b6e39b6e-5e1d-56b6-1459-d7d54d7d3e65.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="XEDeviceApplicationInfo Methods" Url="html/4480ce71-d878-a0ab-81d8-6c1fe6457b77.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd30a895-53c7-4ff6-8a52-424064e4f94a" Title="XEFileInfo Class" Url="html/084f0ed6-78ad-7a6b-2a5d-e0a1b9bdb803.htm">
+      <HelpTOCNode Id="2138cd46-0a33-4b88-941d-3a10fa71b344" Title="XEFileInfo Properties" Url="html/d7ecb3fe-3727-17c8-9d95-60dec1286b46.htm">
+        <HelpTOCNode Title="CanRead Property " Url="html/f651b3f6-df54-61d3-1176-583ff1dcbc0f.htm" />
+        <HelpTOCNode Title="CanSeek Property " Url="html/e3998d2c-34e0-29cb-269a-53a6becaf526.htm" />
+        <HelpTOCNode Title="CanTimeout Property " Url="html/8ff97612-e808-edc1-d105-ef9e05df11a4.htm" />
+        <HelpTOCNode Title="CanWrite Property " Url="html/8d2976e5-63b7-844c-9134-17ba02d508f0.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/e38ef442-ec65-8f6f-a324-aa66642acae4.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/a5078ea1-9dc5-69ad-bd99-dcecb1cc0061.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c78936a1-b886-42ba-9539-73ee1db2a937" Title="XEFileInfo Methods" Url="html/ae0c307f-fb42-41bf-75ef-7dbbc73abf38.htm">
+        <HelpTOCNode Id="7e7437f4-2cfc-46e6-8d6c-ac05b4eca150" Title="Dispose Method " Url="html/7a71e733-5ebb-1192-6a26-21f56916d4b7.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/5fd1afc3-21e3-3dbc-92c5-918525e9f2d8.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Flush Method " Url="html/06658a38-8460-16cf-931b-ce7d57b9df2c.htm" />
+        <HelpTOCNode Title="Open Method " Url="html/272ba535-433a-10ed-abd2-a0643c25fa34.htm" />
+        <HelpTOCNode Title="OpenRead Method " Url="html/6cfac398-c4f0-c4bb-17d4-acc0e1ff7bbe.htm" />
+        <HelpTOCNode Title="OpenWrite Method " Url="html/302dc58f-4dde-cb1b-a179-a46355889fb3.htm" />
+        <HelpTOCNode Title="Read Method " Url="html/d061302c-5c24-7dbd-81dc-d8c3e204f889.htm" />
+        <HelpTOCNode Title="Seek Method " Url="html/9561dad6-67fe-5805-d7f9-186dd28f2774.htm" />
+        <HelpTOCNode Title="SetLength Method " Url="html/4a40615d-1786-ad35-9c48-4eff1b63ce45.htm" />
+        <HelpTOCNode Title="Write Method " Url="html/20c26668-d1b3-6944-ea6e-ed4b4dcedd5a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="140d8e5f-1bd1-48b2-a6ac-913429368d26" Title="XEPathInfo Class" Url="html/8c5f2d91-612a-b874-cb5d-a9ad561b2095.htm">
+      <HelpTOCNode Title="XEPathInfo Constructor " Url="html/2740e71a-ce84-7203-35cc-c3fb1a7ac426.htm" />
+      <HelpTOCNode Id="20927ad1-026f-49b1-8053-160a9beebc5e" Title="XEPathInfo Properties" Url="html/7aa46f77-01b2-04d8-8ea2-3a47ab149ddc.htm">
+        <HelpTOCNode Title="Children Property " Url="html/3ea6ae1b-4877-b605-f88f-47397efa3533.htm" />
+        <HelpTOCNode Title="DateModified Property " Url="html/df1c671d-b121-ffca-7d78-97c4619c54d6.htm" />
+        <HelpTOCNode Title="Exists Property " Url="html/54690c2b-8d86-bdc4-a98c-75125dd1fcc6.htm" />
+        <HelpTOCNode Title="FileLength Property " Url="html/2dacbe06-196b-0917-41bd-ac2fac9bd37e.htm" />
+        <HelpTOCNode Title="Filename Property " Url="html/f2b52119-f2d8-7020-6e94-530da4757c32.htm" />
+        <HelpTOCNode Title="FullPath Property " Url="html/9def9473-1f37-3606-b54e-2a255ba0aaa5.htm" />
+        <HelpTOCNode Title="IsDirectory Property " Url="html/cd51335e-981a-ed8f-056a-5e7b694e342c.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/3761aa51-e6fa-f8e7-0c46-981bedfb9207.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1d8b8060-3407-4f75-bde4-8618427b635b" Title="XEPathInfo Methods" Url="html/7818acb8-6e5e-8ce9-4324-7f8ae90d3697.htm">
+        <HelpTOCNode Title="children Method " Url="html/0682fbe0-c5e5-4bfb-c5fa-90927040fbdf.htm" />
+        <HelpTOCNode Id="ff73a1e7-a7a5-4724-9e3c-e1555f6f9d4d" Title="Equals Method " Url="html/357790f0-83f0-053a-7ac3-017229f41bae.htm">
+          <HelpTOCNode Title="Equals Method (XEPathInfo)" Url="html/0baacef9-5f45-9fd4-9fab-629f1f29407c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="UnixGetPathExtension Method " Url="html/1567ca24-e51c-2c38-2127-381f2235a5ab.htm" />
+        <HelpTOCNode Title="UnixGetPathWithoutExtension Method " Url="html/c26cb13a-39e4-8ba1-73db-823a2cc3ca84.htm" />
+        <HelpTOCNode Title="UnixIncrementPathString Method " Url="html/872714c6-eadd-7e03-027a-edb4db4bb660.htm" />
+        <HelpTOCNode Title="UnixPathCombine Method " Url="html/d2b90765-f874-02a7-753a-37ba3a3e4101.htm" />
+        <HelpTOCNode Title="UnixSplitFileNameAndExtension Method " Url="html/9f63739d-7c51-7f2d-50f2-db977a55a036.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="119ecad6-1688-49c3-b3f3-6444f4bae09c" Title="XEPathInfo Fields" Url="html/20afb952-079c-bebd-993c-edba0bf09a07.htm">
+        <HelpTOCNode Title="Device Field" Url="html/158524c9-3a43-8cac-7c0a-19b79ca419c3.htm" />
+        <HelpTOCNode Title="Service Field" Url="html/a36c3349-fd3f-b450-12d8-09306cddeba1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="eca2a816-a861-4376-90f6-7b79f7bbfd13" Title="MK.Plist" Url="html/0fdfe71a-2a19-dbee-589e-c00207ee9c8e.htm">
+    <HelpTOCNode Id="0aa7d935-1c06-4ce2-be98-62baac88a7ea" Title="PList Class" Url="html/66d55cae-9912-d9ab-e133-f329360fc0fc.htm">
+      <HelpTOCNode Id="42a08808-1625-4b70-893e-421eadb3dd9e" Title="PList Constructor " Url="html/f4a076c8-5955-2369-1ba4-0b50f37b9c46.htm">
+        <HelpTOCNode Title="PList Constructor " Url="html/ebed883c-19cf-1142-3fba-2d4f59a665ba.htm" />
+        <HelpTOCNode Title="PList Constructor (String)" Url="html/782065dc-3c0a-eb55-2d9c-97fda16b915c.htm" />
+        <HelpTOCNode Title="PList Constructor (XDocument, Boolean)" Url="html/aed7d994-67b1-bd41-0ae2-3e89a03048a3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PList Properties" Url="html/3c73bc41-5e00-877f-24bf-f18e595c0098.htm" />
+      <HelpTOCNode Id="d07332e1-0594-4909-b01c-c91a47353dd4" Title="PList Methods" Url="html/62981760-caf9-1ae2-26fc-ad4101ddb25d.htm">
+        <HelpTOCNode Title="Load Method " Url="html/dd34f999-68fb-1ddd-d527-bf738331853e.htm" />
+        <HelpTOCNode Title="StripControlChars Method " Url="html/0fb5b23a-ed33-6b47-b46d-9d79285f3d65.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="63a60827-2373-4c69-b12a-6df23f133a19" Title="PlistCS" Url="html/a8968a74-2887-3bee-cbb9-507b0d34aec0.htm">
+    <HelpTOCNode Id="2ab48cb4-e6c0-43f8-81a7-8173a24ebd7b" Title="Plist Class" Url="html/611f87a2-348e-28c0-addb-10dedf077be8.htm">
+      <HelpTOCNode Id="0b3b5383-9e08-4367-bf06-5539696f623c" Title="Plist Methods" Url="html/31bd17d6-fa45-b52a-9df6-c031ee947eaa.htm">
+        <HelpTOCNode Title="getPlistType Method " Url="html/3d9c81a1-d327-ff4b-6dc8-d534dbf368d1.htm" />
+        <HelpTOCNode Title="parseBinaryDate Method " Url="html/ff8f5f20-0c34-97dc-5236-b21e9d8865a3.htm" />
+        <HelpTOCNode Id="f2097246-30ea-4edd-9df0-a8544df647a4" Title="readPlist Method " Url="html/7480ba1c-6dfe-cc7d-b6c0-bdf67276441e.htm">
+          <HelpTOCNode Title="readPlist Method (Byte[])" Url="html/aa4c792a-ec42-fb44-1d18-d7c516119276.htm" />
+          <HelpTOCNode Title="readPlist Method (String)" Url="html/6bb0d798-3bda-b7e4-28a4-a2268b4cd33f.htm" />
+          <HelpTOCNode Title="readPlist Method (Stream, plistType)" Url="html/c9e7c98c-24eb-f39c-1410-7fc64c31eebb.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="readPlistSource Method " Url="html/ac80087e-0dd8-bb58-a65e-3e031c2789c5.htm" />
+        <HelpTOCNode Id="d26e9e65-9860-4de2-98ae-937209dda122" Title="writeBinary Method " Url="html/345c744a-390a-103d-54b3-cad39561e295.htm">
+          <HelpTOCNode Title="writeBinary Method (Object)" Url="html/77032939-317e-922e-47cb-5d9b68c0190b.htm" />
+          <HelpTOCNode Title="writeBinary Method (Object, Stream)" Url="html/241dd51e-eaa3-05f3-2132-76573e3a7191.htm" />
+          <HelpTOCNode Title="writeBinary Method (Object, String)" Url="html/3ba02b38-e65f-4ef8-a3e0-f4d77fb52346.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="writeBinaryBool Method " Url="html/56249b18-d235-6825-5808-f0b69b8d8897.htm" />
+        <HelpTOCNode Title="writeBinaryDate Method " Url="html/b8b5d831-eeb3-6c81-6545-d28e293a72b4.htm" />
+        <HelpTOCNode Id="9035a756-45f4-4014-bb40-1b1676c6ff41" Title="writeXml Method " Url="html/88d903aa-89ac-3b4b-fad1-f8286789690d.htm">
+          <HelpTOCNode Title="writeXml Method (Object)" Url="html/3ba30173-c665-1804-e3ae-2a10815cf2ba.htm" />
+          <HelpTOCNode Title="writeXml Method (Object, Stream)" Url="html/32d534d3-4d94-7d9e-138f-7ae019a1eb2d.htm" />
+          <HelpTOCNode Title="writeXml Method (Object, String)" Url="html/e524c5f1-daed-4b29-1c46-6d8fd57173a3.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="13264e1f-b185-4a2c-a022-a3aca3a28d52" Title="PlistDateConverter Class" Url="html/e6b4d1cc-4d63-d3de-95a1-7d26a5a720d5.htm">
+      <HelpTOCNode Id="b29444d9-4d7c-4760-a0d1-492c1f8152db" Title="PlistDateConverter Methods" Url="html/5b64c862-1f44-93d4-ea63-2759e2252674.htm">
+        <HelpTOCNode Title="ConvertFromAppleTimeStamp Method " Url="html/e6f9de94-5fb4-9a9f-0247-04476c07892f.htm" />
+        <HelpTOCNode Title="ConvertToAppleTimeStamp Method " Url="html/fbc4d167-c9f4-a3e6-f777-fd1d6910da28.htm" />
+        <HelpTOCNode Title="GetAppleTime Method " Url="html/c5d3ed9e-a50a-5e3c-8f89-c171cc240f19.htm" />
+        <HelpTOCNode Title="GetUnixTime Method " Url="html/57a74abe-0b91-da6e-431a-7e830742b5d2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="46655eec-a85a-4110-a47f-f0ae7134f427" Title="PlistDateConverter Fields" Url="html/ea0d41ea-91ae-3705-f6af-f2e465c179de.htm">
+        <HelpTOCNode Title="timeDifference Field" Url="html/4573bb1b-3d7d-75b4-f932-c818300e0301.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="plistType Enumeration" Url="html/aff1e9a4-6cfc-9d16-224f-c02272deac48.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="90634877-cae5-4d8f-82c6-882288847eb9" Title="rebootpwn" Url="html/22018e5a-9425-4232-e6b2-6054d02d837d.htm">
+    <HelpTOCNode Id="83dfcd0a-3dc7-4b77-b5eb-915a220c461c" Title="rebootpwn Class" Url="html/5f47a4ef-8fec-3ca3-7f1f-10f62a28b5dd.htm">
+      <HelpTOCNode Title="rebootpwn Constructor " Url="html/f30576dd-4676-96ec-7500-d0680d98793e.htm" />
+      <HelpTOCNode Id="d47f4f01-bfed-4505-8ed6-b02af149307e" Title="rebootpwn Properties" Url="html/1ad0a8ba-fb2a-d518-fc7c-8ea0c77a17cc.htm">
+        <HelpTOCNode Title="connectionStatus Property " Url="html/69be5ada-9c0b-d35e-555d-a1f728717d78.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="eb206ae6-cb69-4a4b-90d2-2154f01bf1f4" Title="rebootpwn Methods" Url="html/8cc5d27c-2f60-72e4-0772-7056dcb862cf.htm">
+        <HelpTOCNode Title="EnterRecovery Method " Url="html/eca0ab73-ceb9-64ef-b414-4acf86987540.htm" />
+        <HelpTOCNode Title="ExitRecovery Method " Url="html/de9c94da-af37-f403-4533-04c44471fdb7.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/ecc620ee-2485-ed9c-3c57-6eff246e617d.htm" />
+        <HelpTOCNode Title="InitIOSConnect Method " Url="html/46560262-69c6-bd42-fc68-96b69cd050c1.htm" />
+        <HelpTOCNode Title="initRbthck Method " Url="html/ffee9da0-8ce0-42a3-72df-e7193a77a768.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f480d2c4-0972-4c01-90a3-e27cdb57b413" Title="rebootpwn Fields" Url="html/6df2b52e-6f63-0d2e-ba81-df1f61f15f8a.htm">
+        <HelpTOCNode Title="m_deviceID Field" Url="html/522710ae-618b-ed71-b1e2-0cd83bd34f26.htm" />
+        <HelpTOCNode Title="m_deviceName Field" Url="html/ddeb50cf-7e40-0095-9545-eb6c77581c2d.htm" />
+        <HelpTOCNode Title="m_deviceType Field" Url="html/d95cc0ae-fe3e-84ef-c40f-36cc5b6994a0.htm" />
+        <HelpTOCNode Title="m_deviceVersion Field" Url="html/fa47dbe4-ac94-1437-41b1-676f627714ff.htm" />
+        <HelpTOCNode Title="m_iphoneConnectState Field" Url="html/00e6651b-821d-874c-5454-7cc78eb0bd5c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2878f7ff-570f-4791-9e2c-1b1fef8c0f85" Title="recoverysaver" Url="html/cc9ba828-e8d3-1f64-31e7-280160e4204c.htm">
+    <HelpTOCNode Id="19f5bf38-597a-4689-b06d-a815f2912301" Title="librecoverysaver Class" Url="html/5371c5f1-9ea1-f146-4298-2e77eba95009.htm">
+      <HelpTOCNode Title="librecoverysaver Constructor " Url="html/8476361f-2f0e-1b4c-e2c4-c82843d9e71a.htm" />
+      <HelpTOCNode Id="a9dc27b0-9f2c-4c26-b9cf-befc295206f9" Title="librecoverysaver Methods" Url="html/0683fbf1-c39d-5e51-cdb5-504b94fc26bc.htm">
+        <HelpTOCNode Title="EnterRecovery Method " Url="html/6fc60659-9ec9-5966-f7f9-25a2ad90560c.htm" />
+        <HelpTOCNode Title="ExitRecovery Method " Url="html/3b4fe317-578b-ca06-451f-daea227648fe.htm" />
+        <HelpTOCNode Title="FullReboot Method " Url="html/31744f57-dc45-d1f1-7023-8f8a73df2899.htm" />
+        <HelpTOCNode Title="HijackIDevice Method " Url="html/afe1f842-cc1c-0085-1506-b21fe5fb49af.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
